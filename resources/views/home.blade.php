@@ -14,6 +14,7 @@
                     <meta charset="UTF-8">
                     <meta content="IE=edge" http-equiv="X-UA-Compatible">
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                    <script src="https://kit.fontawesome.com/caef0b341f.js" crossorigin="anonymous"></script>
                     <!-- Title  -->
                     <title> Rebel | Designers of Change</title>
                     <!-- Favicon -->
@@ -85,198 +86,10 @@
                                 </div>
                             </div>
                         </header>
-                        <header class="header-bottom">
-                            <nav class="navbar navbar-expand-md navbar-custom">
-                                <div class="container">
-                                    <a href="index.php" class="header-bottom--logo logo">
-                                    <img src="assets/images/header_logo.png" alt="header_logo">
-                                    </a>
-                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                    </button>
-                                    <i class="lnr lnr-menu"></i>
-                                    <div class="navbar-collapse collapse" id="navbarCollapse">
-                                        <ul class="navbar-nav mr-auto w-100 justify-content-end">
-                                            <li class="nav-item dropdown  nav-item--mobile">
-                                            <a class="nav-link nav-link--mobile" href=#>
-                                                    Home
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <!-- <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="home1.php">
-                                                        Home 01
-                                                        </a>
-                                                    </li>
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="home2.php">
-                                                        Home 02
-                                                        </a>
-                                                    </li>
-                                                </ul> -->
-                                            </li>
-                                            <li class="nav-item  nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile" href="about">
-                                                    About
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                            </li>
-                                            <li class="nav-item dropdown nav-item--mobile">
-                                            <a class="nav-link nav-link--mobile" href=#>
-                                                    Concepts
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <!-- <ul class="dropdown-menu">
-                                                 <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="404.php">
-                                                        404
-                                                        </a>
-                                                    </li>
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="under-maintenance.php">
-                                                        Coming Soon
-                                                        </a>
-                                                    </li>
-                                                </ul> -->
-                                            </li>
-                                            <li class="nav-item dropdown  nav-item--mobile">
-                                            <a class="nav-link nav-link--mobile" href=#>
-                                                    Web Design
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <!-- <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="single-service.php">
-                                                        Single Service
-                                                        </a>
-                                                    </li>
-                                                </ul> -->
-                                            </li>
-                                            <li class="nav-item dropdown nav-item--mobile">
-                                            <a class="nav-link nav-link--mobile" href=#>
-                                                    Social Media
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <!-- <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="single-portfolio.php">
-                                                        Single Portfolio
-                                                        </a>
-                                                    </li>
-                                                </ul> -->
-                                            </li>
-                                            <li class="nav-item nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile" href="elements.php">
-                                                    Clients
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                            </li>
-                                            <!-- <li class="nav-item dropdown  nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile dropdown-toggle" href="blog.php"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    Blog
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="blog-post.php">
-                                                        Blog Post
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li> -->
-                                            <li class="nav-item nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile" href="contacts.php">
-                                                    Contacts
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </nav>
-                        </header>
+                        
+
+                        @include('include.navbar')
+
                         <!-- Header end -->
                         <!-- Section Slider -->
                         <div class="section-slider">
@@ -344,7 +157,7 @@
                                             <p class="section-about-block--text">
                                                 — Our developers and designers help businesses achieve web excellence with compelling content, awesome designs & qualified traffic.
                                             </p>
-                                            <a href="about.php" class="btn btn--arrow btn--arrow-r btn-lg">
+                                            <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
                                             more details
                                             <span class="btn--arrow-icon"></span>
                                             </a>
@@ -357,7 +170,7 @@
                                             <p class="section-about-block--text">
                                                 — We will work on your company's digital marketing strategy, and manage areas such as SEM, SEO, social media marketing, creative, and more.
                                             </p>
-                                            <a href="about.php" class="btn btn--arrow btn--arrow-r btn-lg">
+                                            <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
                                             more details
                                             <span class="btn--arrow-icon"></span>
                                             </a>
@@ -370,7 +183,7 @@
                                             <p class="section-about-block--text">
                                                 — We provide strategically adept concept designs with high-end creativity with a unique touch. View all our concepts.
                                             </p>
-                                            <a href="about.php" class="btn btn--arrow btn--arrow-r btn-lg">
+                                            <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
                                             more details
                                             <span class="btn--arrow-icon"></span>
                                             </a>
@@ -406,7 +219,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -418,7 +231,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -430,7 +243,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -444,7 +257,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -456,7 +269,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -468,7 +281,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>

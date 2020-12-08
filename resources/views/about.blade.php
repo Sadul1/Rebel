@@ -14,8 +14,9 @@
                     <meta charset="UTF-8">
                     <meta content="IE=edge" http-equiv="X-UA-Compatible">
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                    <script src="https://kit.fontawesome.com/caef0b341f.js" crossorigin="anonymous"></script>
                     <!-- Title  -->
-                    <title> Estrella | About Us</title>
+                    <title> Rebel | About Us</title>
                     <!-- Favicon -->
                     <link rel="icon" href="assets/images/favicon.png">
                     <!-- Bootstrap -->
@@ -85,197 +86,9 @@
                                 </div>
                             </div>
                         </header>
-                        <header class="header-bottom">
-                            <nav class="navbar navbar-expand-md navbar-custom">
-                                <div class="container">
-                                    <a href="index.php" class="header-bottom--logo logo">
-                                    <img src="assets/images/header_logo.png" alt="header_logo">
-                                    </a>
-                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                    </button>
-                                    <div class="navbar-collapse collapse" id="navbarCollapse">
-                                        <ul class="navbar-nav mr-auto w-100 justify-content-end">
-                                            <li class="nav-item dropdown  nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile dropdown-toggle" href="index.php" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    Home
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="home1.php">
-                                                        Home 01
-                                                        </a>
-                                                    </li>
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="home2.php">
-                                                        Home 02
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item  nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile active" href="about.php">
-                                                    About
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                            </li>
-                                            <li class="nav-item dropdown nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile dropdown-toggle" href="javascript:void(0);"  aria-expanded="false">
-                                                    Pages
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="404.php">
-                                                        404
-                                                        </a>
-                                                    </li>
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="under-maintenance.php">
-                                                        Coming Soon
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item dropdown  nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile dropdown-toggle" href="services.php" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    Services
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="single-service.php">
-                                                        Single Service
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item dropdown nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile  dropdown-toggle" href="portfolio.php" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    Portfolio
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="single-portfolio.php">
-                                                        Single Portfolio
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile" href="elements.php">
-                                                    Elements
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                            </li>
-                                            <li class="nav-item dropdown  nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile dropdown-toggle" href="blog.php" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    Blog
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="blog-post.php">
-                                                        Blog Post
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile" href="contacts.php">
-                                                    Contacts
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </nav>
-                        </header>
+                        
+                        @include('include.navbar')
+
                         <!-- Header end -->
                         <!-- Section Page Info -->
                         <div class="section-page-info">
@@ -302,22 +115,24 @@
                                 <div class="row ac-d">
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mb-space">
                                         <img src="assets/images/section-about-icon1.png" class="section-about-icon" alt="section-about-icon1">
-                                        <h4 class="section-about-title">Creative Design</h4>
+                                        <h4 class="section-about-title">People First Always</h4>
                                         <p class="section-about-text">
-                                            No matter what format will best help you accomplish your business goals, we offer a full suite of graphic design and web design services.
+                                        We measure our success in terms of the positive experiences we create, both Internally and with our Clients, but never by the bottom line.
                                         </p>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mb-space">
                                         <img src="assets/images/section-about-icon2.png" class="section-about-icon" alt="section-about-icon2">
-                                        <h4 class="section-about-title">Video Creation</h4>
+                                        <h4 class="section-about-title">Challenge the Status Quo</h4>
                                         <p class="section-about-text">
-                                            Customers trust websites that have videos. Our video creation services will get you started quickly in harnessing the power of online video. 
+                                        Today, our very survival depends on our ability to stay awake We raise the bar at every opportunity. We never settle, and we never play 'follow the leader'.                                             
                                         </p>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                                         <img src="assets/images/section-about-icon3.png" class="section-about-icon" alt="section-about-icon3">
-                                        <h4 class="section-about-title">Marketing Strategy</h4>
-                                        <p class="section-about-text">From our roots in traditional advertising, we've evolved into a leading digital marketing agency. View all of our marketing and advertising services here.</p>
+                                        <h4 class="section-about-title">Every Detail Matters</h4>
+                                        <p class="section-about-text">
+                                        We believe that no detail is too small, and that excellence is the sum of all details. The difference between something good and something great is attention to detail.                     
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -337,7 +152,7 @@
                                         <span>A BOOST!</span>
                                     </h3>
                                     <p class="section-give-boost-text">
-                                        Estrella is a creative digital agency specializing in design, video production, and marketing.
+                                    REBEL is one of the leading Web Developing & Social Media Marketing Company in Sri Lanka with multi-disciplinary team of designers, developers and creators.
                                     </p>
                                 </div>
                                 <a href="home2.php" class="section-give-boost-play"></a>
@@ -350,7 +165,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3 class="section-about-template-title tc">ABOUT ESTRELLA</h3>
+                                        <h3 class="section-about-template-title tc">WHO ARE WE...</h3>
                                         <ul class="circles circles--red tc">
                                             <li>
                                                 <span></span>
@@ -371,14 +186,14 @@
                                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <div class="section-about-template-info">
                                             <h4 class="section-about-template-subtitle">
-                                                How is your company adapting to today's connected world? We offer a whole pack of digital services to help you grow and stay up-to-date.
+                                            REBEL is one of the leading Web Developing & Social Media Marketing Company in Sri Lanka with multi-disciplinary team of designers, developers and creators. We pour our hearts into every project we touch and are committed towards pushing the boundaries of what's digitally possible through better design and code.
                                             </h4>
                                             <p class="section-about-template-text">
-                                                Based in California, with 100% of our talent residing in the United States, and a history deeply rooted in high-performing sales delivery, digital marketing agency Estrella provides businesses with turn-key inbound marketing, website development, and creative videos that actually help businesses grow.
+                                            Every design & development we work on with the mind setup of the importance of giving your brand a strong digital presence. It is today’s key to end-user engagement and the doorway to your growth by blending technology & design .REBEL have embraced this formula and integrated it into our ethos & ensure that both discern creative voices and first-rated technical vision are presented at the onset of every new client challenge”.
                                             </p>
-                                            <p class="section-about-template-text">
+                                            <!-- <p class="section-about-template-text">
                                                 We are offering different packages and custom solutions for different business types and guarantee your success in less than 3 months of cooperation.
-                                            </p>
+                                            </p> -->
                                             <a href="services.php" class="section-about-template-btn btn btn-md btn-r">OUR SERVICES</a>
                                         </div>
                                     </div>
@@ -387,7 +202,7 @@
                         </div>
                         <!-- Section About Template end -->
                         <!-- Section Our Team -->
-                        <div class="section-our-team">
+                        <!-- <div class="section-our-team">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -507,7 +322,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Section Our Team end -->
                         <!-- Section Contacts -->
                         <div class="section-contacts tc">
