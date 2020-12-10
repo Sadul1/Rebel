@@ -110,7 +110,7 @@
                         </div>
                         <!-- Section Page Info end -->
                         <!-- Section About -->
-                        <div class="section-about">
+                        <div class="section-about2">
                             <div class="container">
                                 <div class="row ac-d">
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mb-space">
@@ -155,7 +155,7 @@
                                     REBEL is one of the leading Web Developing & Social Media Marketing Company in Sri Lanka with multi-disciplinary team of designers, developers and creators.
                                     </p>
                                 </div>
-                                <a href="home2.php" class="section-give-boost-play"></a>
+                                <!-- <a href="home2.php" class="section-give-boost-play"></a> -->
                                 <div class="section-give-boost-image"></div>
                             </div>
                         </div>

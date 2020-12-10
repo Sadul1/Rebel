@@ -843,7 +843,7 @@ img {
   width: 10px;
 }
 .navbar-toggler-invert {
-  background: #ffffff;
+  background: #000;
 }
 .navbar .lnr-menu {
   display: none;
@@ -1181,7 +1181,7 @@ img {
 }
 /* 6. SECTION SLIDER STYLES */
 .section-slider {
-  margin-top: 130px;
+  margin-top: 50px;
 }
 .section-slider .slider-item {
   display: -ms-flexbox;
@@ -1409,12 +1409,19 @@ img {
 /* 7. SECTION ABOUT */
 .section-about {
   padding: 125px 0;
+  background: #0d0d0d;
 }
+
+.section-about2 {
+  padding: 125px 0;
+  background: #ffffff;
+}
+
 .section-about h3 {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 800;
-  color: #000;
+  color: #ffffff;
   font-size: 36px;
   letter-spacing: -1px;
 }
@@ -1429,7 +1436,7 @@ img {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
-  color: #000;
+  color: #ffffff;
   font-size: 24px;
   letter-spacing: -1px;
 }
@@ -1438,7 +1445,7 @@ img {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 300;
-  color: #000;
+  color: #ffffff;
   font-size: 24px;
   letter-spacing: -1px;
   margin-left: 5px;
@@ -1449,7 +1456,7 @@ img {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  color: #000;
+  color: #ffffff;
   line-height: 1.5;
 }
 .section-about-block .btn {
@@ -1616,7 +1623,7 @@ img {
   bottom: 14px;
 }
 .section-project-item--1 {
-  background: url('../../assets/images/recent-projects/recent-projects-item1.jpg');
+  background: url('../../assets/images/recent-projects/Capture1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -2032,7 +2039,7 @@ img {
   font-weight: 700;
   letter-spacing: -5.5px;
   text-transform: uppercase;
-  color: #ff0000;
+  color: #ffffff;
 }
 .section-proposition-text {
   position: relative;
@@ -2706,7 +2713,7 @@ img {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
-  color: #ffffff;
+  color: #000;
   font-size: 16px;
   line-height: 26px;
   letter-spacing: -0.3px;
@@ -2738,10 +2745,10 @@ img {
   background: #ffffff;
 }
 .wrapper-video-lab .header-top .layout .link--mail {
-  color: #ffffff;
+  color: #000;
 }
 .wrapper-video-lab .header-top .layout .socials--title {
-  color: #ffffff;
+  color: #000;
 }
 .wrapper-video-lab .header-top .hr {
   background: #ffffff;
@@ -2751,10 +2758,10 @@ img {
   background: #ffffff;
 }
 .wrapper-video-lab .header-bottom .navbar-expand-md .navbar-nav li .nav-link {
-  color: #ffffff;
+  /* color: #000000; */
 }
 .wrapper-video-lab .header-bottom .navbar-expand-md .navbar-nav li .nav-link ul li .nav-link-circle {
-  background: #ffffff;
+  /* background: #ffffff; */
 }
 .wrapper-video-lab .section-connect {
   padding: 90px 0 95px;
@@ -3274,7 +3281,7 @@ img {
   font-family: "Oswald", sans-serif;
   font-style: normal;
   font-weight: 700;
-  color: #000;
+  color: #000000;
   font-size: 24px;
   letter-spacing: -1px;
   margin-top: 35px;
@@ -3285,7 +3292,7 @@ img {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  color: #000;
+  color: #000000;
   line-height: 1.5;
 }
 .wrapper-about-us .section-give-boost {
@@ -3375,6 +3382,7 @@ img {
 }
 .wrapper-about-us .section-about-template {
   padding: 120px 0 125px;
+
 }
 .wrapper-about-us .section-about-template-title {
   font-family: "Poppins", sans-serif;

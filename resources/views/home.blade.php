@@ -16,7 +16,7 @@
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
                     <script src="https://kit.fontawesome.com/caef0b341f.js" crossorigin="anonymous"></script>
                     <!-- Title  -->
-                    <title> Rebel | Designers of Change</title>
+                    <title> Rebel | The Changers</title>
                     <!-- Favicon -->
                     <link rel="icon" href="assets/images/favicon.png">
                     <!-- Bootstrap -->
@@ -27,11 +27,11 @@
                     <link href="assets/css/animate.min.css" rel="stylesheet" type="text/css">
                     <!-- Lightbox -->
                     <link href="assets/css/lightbox.css" rel="stylesheet" type="text/css">
+                    <!-- Font Awesome -->
+                    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
                     <!-- Theme Styles -->
                     <link href="assets/css/styles.css" rel="stylesheet" type="text/css">
                     <link href="assets/css/responsive.css" rel="stylesheet" type="text/css">
-                    <!-- Font Awesome -->
-                    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
                 </head>
                 <body>
                     <!-- Preloader -->
@@ -42,8 +42,9 @@
                         </div>
                     </div>
                     <!-- Preloader end -->
-                    <!-- Creative Agency Wrapper -->
-                    <div class="wrapper creative-agency-wrapper">
+                    <!-- Video Lab Wrapper -->
+                    <div class="wrapper wrapper-video-lab">
+                        <div class="wrapper creative-agency-wrapper">
                         <!-- Header -->
                         <header class="header-top">
                             <div class="layout">
@@ -86,10 +87,7 @@
                                 </div>
                             </div>
                         </header>
-                        
-
                         @include('include.navbar')
-
                         <!-- Header end -->
                         <!-- Section Slider -->
                         <div class="section-slider">
@@ -124,19 +122,19 @@
                                     </div>
                                 </div>
                                 <div class="owl-pagination">
-                                    <div class="owl-numbers">
+                                    <!-- <div class="owl-numbers">
                                         <span class="owl-current"></span>
                                         <span class="owl-all"></span>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
-                        <!-- Section Slider end -->
+                    </div>    
                         <!-- Section About -->
                         <div class="section-about">
                             <div class="container">
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 mb-space">
+                                <div class="row tc">
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                         <h3>WHAT WE DO ?</h3>
                                         <ul class="circles circles--red">
                                             <li>
@@ -150,42 +148,44 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                                         <div class="section-about-block mb-space">
                                             <span class="section-about-block--numb">01.</span>
                                             <h4 class="section-about-block--title">Web Design</h4>
                                             <p class="section-about-block--text">
-                                                — Our developers and designers help businesses achieve web excellence with compelling content, awesome designs & qualified traffic.
+                                            Our developers and designers help businesses achieve web excellence with compelling content, awesome designs & qualified traffic.
                                             </p>
                                             <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
-                                            more details
-                                            <span class="btn--arrow-icon"></span>
-                                            </a>
+                                                more details
+                                                <span class="btn--arrow-icon"></span>
+                                                </a>
                                         </div>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                                         <div class="section-about-block mb-space">
                                             <span class="section-about-block--numb">02.</span>
                                             <h4 class="section-about-block--title">Social Media</h4>
                                             <p class="section-about-block--text">
-                                                — We will work on your company's digital marketing strategy, and manage areas such as SEM, SEO, social media marketing, creative, and more.
+                                            We will work on your company's digital marketing strategy, and manage areas such as SEM, SEO, social media marketing, creative, and more.
                                             </p>
                                             <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
-                                            more details
-                                            <span class="btn--arrow-icon"></span>
-                                            </a>
+                                                more details
+                                                <span class="btn--arrow-icon"></span>
+                                                </a>
                                         </div>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                                         <div class="section-about-block">
                                             <span class="section-about-block--numb">03.</span>
                                             <h4 class="section-about-block--title">Concept Building</h4>
                                             <p class="section-about-block--text">
-                                                — We provide strategically adept concept designs with high-end creativity with a unique touch. View all our concepts.
+                                            We provide strategically adept concept designs with high-end creativity with a unique touch. What ever good things we build endup building us.
                                             </p>
                                             <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
-                                            more details
-                                            <span class="btn--arrow-icon"></span>
+                                                more details
+                                                <span class="btn--arrow-icon"></span>
                                             </a>
                                         </div>
                                     </div>
@@ -193,7 +193,7 @@
                             </div>
                         </div>
                         <!-- Section About end -->
-                        <!-- Section Project -->
+                        <!-- Section Portfolio -->
                         <div class="section-project">
                             <div class="container-fluid">
                                 <div class="row">
@@ -219,7 +219,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -231,7 +231,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -243,7 +243,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -257,7 +257,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -269,7 +269,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -281,7 +281,7 @@
                                                 <div class="section-project-item-caption">
                                                     <h4 class="section-project-item-name">FRUIT OF THE LOOM</h4>
                                                     <h4 class="section-project-item-type">Bag Post Design</h4>
-                                                    <a href="about" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
+                                                    <a href="about.php" class="section-project-item-btn btn btn-r btn-md">MORE DETAILS</a>
                                                 </div>
                                                 <span class="section-project-item-date">February 2017</span>
                                             </div>
@@ -290,7 +290,8 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Section Project end -->
+                        <!-- Section Portfolio end -->
+
                         <!-- Section Why Us -->
                         <div class="section-why-us tc">
                             <div class="container">
@@ -351,48 +352,14 @@
                             </div>
                         </div>
                         <!-- Section Why Us end -->
-                        <!-- Section Reviews -->
-                        <div class="section-reviews">
-                            <div class="container">
-                                <div class="owl-carousel--reviews owl-carousel">
-                                    <div class="section-reviews-slide clearfix">
-                                        <div class="section-reviews-image">
-                                            <img src="assets/images/reviews-img1.jpg" alt="reviews-img1">
-                                        </div>
-                                        <div class="section-reviews-content clearfix">
-                                            <div class="section-reviews-info">
-                                                <span class="section-reviews-info--name">Susan Trudeux</span>
-                                                <span class="section-reviews-info--job">Photographer</span>
-                                            </div>
-                                            <div class="section-reviews-quote">
-                                                <p>We’d like to express our appreciation for Estrella. They agreed to help our non-profit organization update and brand our existing website for free. Thanks for your help.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="section-reviews-slide section-reviews-slide--reverse clearfix">
-                                        <div class="section-reviews-image">
-                                            <img src="assets/images/reviews-img2.jpg" alt="reviews-img2">
-                                        </div>
-                                        <div class="section-reviews-content">
-                                            <div class="section-reviews-info">
-                                                <span class="section-reviews-info--name">James Dupree</span>
-                                                <span class="section-reviews-info--job">Office Manager</span>
-                                            </div>
-                                            <div class="section-reviews-quote">
-                                                <p>Estrella responded to our request accurately and met our needs in a very short period of time. You quickly assisted us in developing a bold logo and banners for our website.Thank you!</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Section Reviews end -->
-                        <!-- Section Our Team -->
-                        <!-- <div class="section-our-team">
+
+
+                        <!-- Section Pricing -->
+                        <!-- <div class="section-pricing">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3>MEET OUR TEAM</h3>
+                                        <h3>PRICING TABLE</h3>
                                         <ul class="circles circles--red">
                                             <li>
                                                 <span></span>
@@ -407,109 +374,91 @@
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <div class="owl-carousel--our-team owl-carousel">
-                                            <div class="section-our-team-slide section-our-team-slide--1">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
+                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                                        <div class="section-pricing-item mb-space">
+                                            <div class="section-pricing-layout">
+                                                <h4 class="section-pricing-title">BASIC</h4>
+                                                <span class="section-pricing-price">$199</span>
+                                                <ul class="section-pricing-nav">
+                                                    <li>Custom design</li>
+                                                    <li>15 days completion</li>
+                                                    <li>Short video</li>
                                                 </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">Emma jackson</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
+                                                <a class="section-pricing-btn btn btn-red btn-md" href="contacts.php">ORDER NOW</a>
                                             </div>
-                                            <div class="section-our-team-slide section-our-team-slide--2">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                                        <div class="section-pricing-item mb-space">
+                                            <div class="section-pricing-layout">
+                                                <h4 class="section-pricing-title">STANDART</h4>
+                                                <span class="section-pricing-price">$499</span>
+                                                <ul class="section-pricing-nav">
+                                                    <li>Custom design</li>
+                                                    <li>15 days completion</li>
+                                                    <li>Short video</li>
                                                 </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">NICHOLAS BELL</h4>
-                                                    <p class="section-our-team-job">CEO</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
+                                                <a class="section-pricing-btn btn btn-red btn-md" href="contacts.php">ORDER NOW</a>
                                             </div>
-                                            <div class="section-our-team-slide section-our-team-slide--3">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                                        <div class="section-pricing-item">
+                                            <div class="section-pricing-layout">
+                                                <h4 class="section-pricing-title">PREMIUM</h4>
+                                                <span class="section-pricing-price">$799</span>
+                                                <ul class="section-pricing-nav">
+                                                    <li>Custom design</li>
+                                                    <li>3 days completion</li>
+                                                    <li>Explanatory video</li>
                                                 </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">GREGORY RAMOS</h4>
-                                                    <p class="section-our-team-job">Digital Strategist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div>
-                                            <div class="section-our-team-slide section-our-team-slide--4">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">MILA DEAN</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div>
-                                            <div class="section-our-team-slide section-our-team-slide--5">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">JENNIFER MILLER</h4>
-                                                    <p class="section-our-team-job">Brand Specialist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
+                                                <a class="section-pricing-btn btn btn-red btn-md" href="contacts.php">ORDER NOW</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div> -->
-                        <!-- Section Our Team end -->
+                        <!-- Section Pricing end -->
+                        <!-- Section Clients -->
+                        <div class="section-clients">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                        <h3 class="section-clients-title">CLIENTS</h3>
+                                        <ul class="circles circles--red">
+                                            <li>
+                                                <span></span>
+                                            </li>
+                                            <li>
+                                                <span></span>
+                                            </li>
+                                            <li>
+                                                <span></span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="row justify-content-center  align-t">
+                                    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                                        <img src="assets/images/clients/our-clients1.png" alt="our-clients1">
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                                        <img src="assets/images/clients/our-clients2.png" alt="our-clients2">
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                                        <img src="assets/images/clients/our-clients3.png" alt="our-clients3">
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                                        <img src="assets/images/clients/our-clients4.png" alt="our-clients4">
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                                        <img src="assets/images/clients/our-clients5.png" alt="our-clients5">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Section Clients end -->
                         <!-- Section Proposition -->
                         <div class="section-proposition">
                             <div class="container">
@@ -534,7 +483,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3>CONTACT US</h3>
+                                        <h3>CONTACT FORM</h3>
                                         <ul class="circles circles--red">
                                             <li>
                                                 <span></span>
@@ -548,35 +497,8 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
-                                        <ul class="section-contacts-nav">
-                                            <li class="section-contacts-item">
-                                                <img src="assets/images/contacts/item1.png" alt="contacts-img1" class="section-contacts-image">
-                                                <div class="section-contacts-info">
-                                                    <span class="section-contacts-text">U can call us 24/7</span>
-                                                    <a href="#" class="section-contacts-link">+9 000 234 567</a>
-                                                    <a href="#" class="section-contacts-link">+9 000 234 573</a>
-                                                </div>
-                                            </li>
-                                            <li class="section-contacts-item">
-                                                <img src="assets/images/contacts/item2.png" alt="contacts-img2" class="section-contacts-image">
-                                                <div class="section-contacts-info">
-                                                    <span class="section-contacts-text">Our location</span>
-                                                    <a href="#" class="section-contacts-link">3909 Witmer Road, Niagara</a>
-                                                    <a href="#" class="section-contacts-link">New York City</a>
-                                                </div>
-                                            </li>
-                                            <li class="section-contacts-item">
-                                                <img src="assets/images/contacts/item3.png" alt="contacts-img3" class="section-contacts-image">
-                                                <div class="section-contacts-info">
-                                                    <span class="section-contacts-text">Email</span>
-                                                    <a href="#" class="section-contacts-link">info@example.com</a>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
+                                <div class="row justify-content-center">
+                                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
                                         <div class="section-contacts-form">
                                             <form method="POST" id="contactform" name="contactform">
                                                 <div class="section-contacts-form-row">
@@ -584,7 +506,7 @@
                                                         <input type="text" class="section-contacts-form-field  form-control" id="form_name" name="form_name" placeholder="Name">
                                                     </div>
                                                     <div class="section-contacts-form-group mb-space">
-                                                        <input type="text" class="section-contacts-form-field form-control" id="form_email" name="form_email" placeholder="Email">
+                                                        <input type="text" class="section-contacts-form-field  form-control" id="form_email" name="form_email" placeholder="Email">
                                                     </div>
                                                 </div>
                                                 <div class="section-contacts-form-row">
@@ -608,7 +530,7 @@
                                 <div class="container">
                                     <div class="row justify-content-center">
                                         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-                                            <a href="home" class="logo footer-top--logo">
+                                            <a href="index.php" class="logo footer-top--logo">
                                             <img src="assets/images/footer_logo.png" alt="footer-logo">
                                             </a>
                                             <p class="footer-top-text">Estrella is a full-suite creative agency providing digital marketing, web design, and video creation services and custom solutions that increase sales and authority for businesses just like yours.
@@ -664,7 +586,7 @@
                         <!-- Footer end -->
                         <a class="to-top" id="buttonToTop"></a>
                     </div>
-                    <!-- Creative Agency Wrapper end -->
+                    <!-- Video Lab Wrapper end -->
                     <!-- Jquery -->
                     <script src="assets/js/jquery-3.2.1.min.js"></script>
                     <!-- Lightbox -->
