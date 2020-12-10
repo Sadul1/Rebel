@@ -16,3 +16,7 @@ Route::get('/home', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::get('/webdesign', function () {
+    return view('webdesign');
+});

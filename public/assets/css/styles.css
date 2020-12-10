@@ -1688,6 +1688,7 @@ img {
   line-height: 30px;
   text-transform: uppercase;
   margin-top: 35px;
+  color: #ffffff;
 }
 .section-why-us-block--text {
   margin-top: 14px;
@@ -1699,6 +1700,18 @@ img {
   line-height: 1.5;
   padding: 0 10px;
 }
+
+.section-why-us-block--text1 {
+  margin-top: 14px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 1.5;
+  padding: 0 10px;
+}
+
 /* 10. SECTION REVIEWS */
 .section-reviews {
   padding: 130px 0;
@@ -2015,7 +2028,7 @@ img {
 /* 12. SECTION PROPOSITION */
 .section-proposition {
   padding: 81px 0;
-  background: url('../../assets/images/propositions-bg.jpg');
+  background: url('../../assets/images/propositions2-bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
