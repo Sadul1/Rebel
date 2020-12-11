@@ -165,7 +165,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3 class="section-about-template-title tc">WHO ARE WE...</h3>
+                                        <h3 class="section-about-template-title tc">WHO WE ARE</h3>
                                         <ul class="circles circles--red tc">
                                             <li>
                                                 <span></span>
@@ -325,7 +325,7 @@
                         </div> -->
                         <!-- Section Our Team end -->
                         <!-- Section Contacts -->
-                        <div class="section-contacts tc">
+                        <!-- <div class="section-contacts tc">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -395,7 +395,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Section Contacts end -->
                         <!-- Footer -->
                         <footer class="footer">

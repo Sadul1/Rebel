@@ -85,7 +85,7 @@
                                                 </ul> -->
                                             </li>
                                             <li class="nav-item dropdown nav-item--mobile">
-                                            <a class="nav-link nav-link--mobile" href="webdesign">
+                                            <a class="nav-link nav-link--mobile dropdown-toggle" href="webdesign"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                     Web Design
                                                     <ul class="circles-menu">
                                                         <li>
@@ -99,15 +99,15 @@
                                                         </li>
                                                     </ul>
                                                 </a>
-                                                <<ul class="dropdown-menu">
+                                                <ul class="dropdown-menu">
                                                     <li class="dropdown-item--mobile">
                                                         <a class="dropdown-link--mobile" href="webdesign">
-                                                        Corporate Web designs
+                                                        Corporate Webs
                                                         </a>
                                                     </li>
                                                     <li class="dropdown-item--mobile">
                                                         <a class="dropdown-link--mobile" href="webdesign">
-                                                        Branding Web Designs
+                                                        Branding Webs
                                                         </a>
                                                     </li>
                                                     <li class="dropdown-item--mobile">
@@ -117,7 +117,7 @@
                                                     </li>
                                                     <li class="dropdown-item--mobile">
                                                         <a class="dropdown-link--mobile" href="webdesign">
-                                                        Website Maintenance
+                                                        Maintenance
                                                         </a>
                                                     </li>
                                                 </ul>

@@ -157,10 +157,10 @@
                                             <p class="section-about-block--text">
                                             Our developers and designers help businesses achieve web excellence with compelling content, awesome designs & qualified traffic.
                                             </p>
-                                            <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
+                                            <!-- <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
                                                 more details
                                                 <span class="btn--arrow-icon"></span>
-                                                </a>
+                                                </a> -->
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -170,10 +170,10 @@
                                             <p class="section-about-block--text">
                                             We will work on your company's digital marketing strategy, and manage areas such as SEM, SEO, social media marketing, creative, and more.
                                             </p>
-                                            <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
+                                            <!-- <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
                                                 more details
                                                 <span class="btn--arrow-icon"></span>
-                                                </a>
+                                                </a> -->
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -183,10 +183,10 @@
                                             <p class="section-about-block--text">
                                             We provide strategically adept concept designs with high-end creativity with a unique touch. What ever good things we build endup building us.
                                             </p>
-                                            <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
+                                            <!-- <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
                                                 more details
                                                 <span class="btn--arrow-icon"></span>
-                                            </a>
+                                            </a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -479,7 +479,7 @@
                         </div>
                         <!-- Section Proposition end -->
                         <!-- Section Contacts -->
-                        <div class="section-contacts tc" id="contacts">
+                        <!-- <div class="section-contacts tc" id="contacts">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -522,7 +522,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Section Contacts end -->
                         <!-- Footer -->
                         <footer class="footer">

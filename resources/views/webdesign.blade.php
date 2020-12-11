@@ -130,7 +130,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/why-us-img1.png" class='section-why-us-block-icon' alt="why-us-img1">
-                                            <h4 class="section-why-us-block--title">Corporate Web designs</h4>
+                                            <h4 class="section-why-us-block--title"> Corporate Webs</h4>
                                             <p class="section-why-us-block--text1">
                                             Today’s consumers expects an informative and accessible corporate website. They look for ways to interact digitally on every level ranging from personal to professional. REBEL can give you the competitive edge you need by having an effective corporate website design and development.
                                             </p>
@@ -142,7 +142,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/why-us-img2.png" class='section-why-us-block-icon' alt="why-us-img2">
-                                            <h4 class="section-why-us-block--title"> Branding Web Designs</h4>
+                                            <h4 class="section-why-us-block--title"> Branding Webs</h4>
                                             <p class="section-why-us-block--text1">
                                             We at REBEL transforms your craziest ideas into perfect designs. We will understand your marketing goals and recommend ways that will ensure that your brand remains appealing to visitors. Our branding web designs are professional, sleek, attractive and easy to maintain. The more time your visitor spends on your website, the higher the possibility of them turning into customers! Your business is thriving, make it exciting .
                                             </p>
@@ -151,7 +151,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/why-us-img3.png" class='section-why-us-block-icon' alt="why-us-img3">
-                                            <h4 class="section-why-us-block--title">E Commerce</h4>
+                                            <h4 class="section-why-us-block--title"> E Commerce</h4>
                                             <p class="section-why-us-block--text1">
                                             Grow your business through creating memorable online shopping experiences for your customers.You have your business and you want to bring it online, or thinking of building an eCommerce website to expand your business? Time to take this opportunity to dazzle them once more with a fresh eCommerce web design that’s attractive, easy-to-use, and intuitive.
                                             </p>
@@ -163,7 +163,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/why-us-img4.png" class='section-why-us-block-icon' alt="why-us-img4">
-                                            <h4 class="section-why-us-block--title"> Website Maintenance</h4>
+                                            <h4 class="section-why-us-block--title"> Maintenance</h4>
                                             <p class="section-why-us-block--text1">
                                             Regular housekeeping on your website is necessary to maintain the brand. Our web maintenance services include: Content updating ,SEO , Website speed optimization ,Security updates, Responsive testing & fixing, SSL integration & many more
                                             </p>

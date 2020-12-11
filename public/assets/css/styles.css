@@ -1408,7 +1408,7 @@ img {
 }
 /* 7. SECTION ABOUT */
 .section-about {
-  padding: 125px 0;
+  padding: 80px 0;
   background: #0d0d0d;
 }
 
@@ -1481,7 +1481,7 @@ img {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 800;
-  color: #ffffff;
+  color: #000000;
   font-size: 36px;
   letter-spacing: -1px;
 }
@@ -1660,14 +1660,14 @@ img {
 }
 /* 9. SECTION WHY US */
 .section-why-us {
-  padding: 125px 0 118px;
-  background: #ffffff;
+  padding: 80px 0 80px;
+  background: #000000;
 }
 .section-why-us h3 {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 800;
-  color: #000;
+  color: #fff;
   font-size: 36px;
   letter-spacing: -1px;
 }
@@ -1696,7 +1696,7 @@ img {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  color: #000;
+  color: #fff;
   line-height: 1.5;
   padding: 0 10px;
 }
@@ -3155,7 +3155,7 @@ img {
 }
 .wrapper-video-lab .section-clients {
   text-align: center;
-  padding: 125px 0 125px;
+  padding: 80px 0 80px;
 }
 .wrapper-video-lab .section-clients-title {
   font-family: "Poppins", sans-serif;
@@ -3417,7 +3417,7 @@ img {
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 300;
-  font-style: italic;
+  /* font-style: italic; */
   color: #000;
   font-size: 20px;
   line-height: 1.4;
