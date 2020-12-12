@@ -16,7 +16,7 @@
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
                     <script src="https://kit.fontawesome.com/caef0b341f.js" crossorigin="anonymous"></script>
                     <!-- Title  -->
-                    <title> Rebel | Web Design</title>
+                    <title> Rebel | Branding</title>
                     <!-- Favicon -->
                     <link rel="icon" href="assets/images/favicon.png">
                     <!-- Bootstrap -->
@@ -95,7 +95,7 @@
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                             <h3 class="section-content-title">
-                                                WEB DESIGN
+                                                Branding
                                             </h3>
                                             <ul class="circles circles--red">
                                             <li>
@@ -113,63 +113,55 @@
                                 </div>
                             </div>
                         </div>
-
                         <!-- Section Content end -->
 
-                        
-
                         <div class="section-content-caption">
-                                                <p>We at REBEL tap on our expertise to create awesome websites and outstanding web applications that help your business stand out online. Your website is your company’s first impression to the world. We firmly believe that it is the most important marketing and sales platform that you have. That is why we strive to achieve the perfect balance of aesthetics and usability when we do website design. </p>
-                                                <p>A great website derives from the result of careful research, planning and specialist skills. Every single project of ours starts with a conversation. We work together with our clients extensively along the way to deliver a final product that exceeds expectations.  We expertise on the following key web sectors. </p>
+                                                <p>“People don’t buy products, they buy brands,” is an old business saying that gets to the heart of what branding is all about. In a word: trust. Eye-catching, meaningful, and memorable brand elements foster greater recognition and connection among customers. Over time, this relationship develops into one of trust.  Branding strategy is the catalyst by which customers understand, purchase, and eventually come to rely on a particular company or product. By creating a concrete identity, branding fuels the assumption that a product will reliably provide the same results time and again. </p>
+                                                <p>We at REBEL drives your brand on a scientific method &  an out of the box concepts. </p>
                                             </div>
-
 
                         <!-- Section About -->
                         <div class="section-about">
                             <div class="container">
                                 <div class="row">
                                 <div class="row al-t">
+                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                                        <div class="section-why-us-block mb-space">
+                                            <img src="assets/images/facebook.png" class='section-why-us-block-icon' alt="why-us-img1">
+                                            <h4 class="section-why-us-block--title"> Brand Guides</h4>
+                                            <p class="section-why-us-block--text1">
+                                            A brand style guide takes the heart and soul of your brand—your mission, vision and values—and translates it into design. It also tells everyone exactly how to communicate your brand. A brand style guide is a rulebook that explains how an organization presents itself to the world through its logo, font and color selections, photography and much more. Put another way, it’s a reference tool that helps maintain consistency in what a brand looks, feels and sounds like. Using a brand book ensures that your brand looks and feels the same, even when you have different people working on customer service, marketing, design and sales.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                                        <div class="section-why-us-block mb-space">
+                                            <img src="assets/images/youtube.jpg" class='section-why-us-block-icon' alt="why-us-img2">
+                                            <h4 class="section-why-us-block--title"> Brand Strategy</h4>
+                                            <p class="section-why-us-block--text1">
+                                            Your Brand Strategy sums up why your business exists beyond making money. It defines what it is that makes your brand what it is, what sets it apart from the competition and how you want your customers to perceive it. After all, if you can't clearly pinpoint what makes your brand different, how will anyone else? By leveraging an effective strategy makes it easy for prospective customers to evaluate them in comparison to the competition. 
+                                            </p>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                                        <div class="section-why-us-block mb-space">
+                                            <img src="assets/images/google.png" class='section-why-us-block-icon' alt="why-us-img3">
+                                            <h4 class="section-why-us-block--title"> Brand Drive</h4>
+                                            <p class="section-why-us-block--text1">
+                                            It is time to drive your brand in the market after implementing guides & strategies. The key here is to accurately select the correct channel at the correct time.  With a strong brand drive, you can guide prospects through the buyer’s journey more quickly , from the awareness stage to the consideration and decision stages.
+                                            </p>
     
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-                                        <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/web1.jpg" class='section-why-us-block-icon' alt="why-us-img1">
-                                            <h4 class="section-why-us-block--title"> CORPORATE WEBs</h4>
-                                            <p class="section-why-us-block--text1">
-                                            Today’s consumers expects an informative and accessible corporate website. They look for ways to interact digitally on every level ranging from personal to professional. REBEL can give you the competitive edge you need by having an effective corporate website design and development.
-                                            </p>
-                                            <p class="section-why-us-block--text1">
-                                            While corporate websites do not usually have shopping carts, you still need steady traffic to your sites in order to achieve and maintain quality rankings with browsers.  We know the cutting-edge techniques that will propel your website to the top. Let our team of professional designers craft an attractive, unique website that will engage visitors and increase customer interaction.
-                                            </p>
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/web.png" class='section-why-us-block-icon' alt="why-us-img2">
-                                            <h4 class="section-why-us-block--title"> BRANDING WEBs</h4>
+                                            <img src="assets/images/marketing.png" class='section-why-us-block-icon' alt="why-us-img4">
+                                            <h4 class="section-why-us-block--title"> Brand Audit</h4>
                                             <p class="section-why-us-block--text1">
-                                            We at REBEL transforms your craziest ideas into perfect designs. We will understand your marketing goals and recommend ways that will ensure that your brand remains appealing to visitors. Our branding web designs are professional, sleek, attractive and easy to maintain. The more time your visitor spends on your website, the higher the possibility of them turning into customers! Your business is thriving, make it exciting .
+                                            It is important to scan the brand strategy & drive at regular intervals to check it’s performance levels. A scientific method should be in place to verify the quantify & qualitativeness   to measure the results. These results could be utilized for amendments or boosting of the brand drive or strategy.
                                             </p>
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-                                        <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/ecom.png" class='section-why-us-block-icon' alt="why-us-img3">
-                                            <h4 class="section-why-us-block--title"> E COMMERCE</h4>
-                                            <p class="section-why-us-block--text1">
-                                            Grow your business through creating memorable online shopping experiences for your customers.You have your business and you want to bring it online, or thinking of building an eCommerce website to expand your business? Time to take this opportunity to dazzle them once more with a fresh eCommerce web design that’s attractive, easy-to-use, and intuitive.
-                                            </p>
-                                            <p class="section-why-us-block--text1">
-                                            Having an eCommerce website is more than just taking your business online; it is a chance to generate sales and revenue, strengthen your brand identity and create opportunities for spreading the word about your products and services, all at the convenience of a few clicks!
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-                                        <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/setting.jpg" class='section-why-us-block-icon' alt="why-us-img4">
-                                            <h4 class="section-why-us-block--title"> MAINTENANCE</h4>
-                                            <p class="section-why-us-block--text1">
-                                            Regular housekeeping on your website is necessary to maintain the brand. Our web maintenance services include: Content updating ,SEO , Website speed optimization ,Security updates, Responsive testing & fixing, SSL integration & many more
-                                            </p>
+                                            
                                         </div>
                                     </div>
                                 </div>

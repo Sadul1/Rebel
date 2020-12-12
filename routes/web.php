@@ -20,3 +20,11 @@ Route::get('/about', function () {
 Route::get('/webdesign', function () {
     return view('webdesign');
 });
+
+Route::get('/socialmedia', function () {
+    return view('socialmedia');
+});
+
+Route::get('/branding', function () {
+    return view('branding');
+});

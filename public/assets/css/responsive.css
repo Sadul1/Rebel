@@ -1209,6 +1209,9 @@
   .section-why-us-block-icon {
     height: 100%;
     width: 40%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
   }
   .section-why-us .al-t {
     -ms-flex-align: end;

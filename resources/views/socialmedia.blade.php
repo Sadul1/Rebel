@@ -16,7 +16,7 @@
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
                     <script src="https://kit.fontawesome.com/caef0b341f.js" crossorigin="anonymous"></script>
                     <!-- Title  -->
-                    <title> Rebel | Web Design</title>
+                    <title> Rebel | Social Media</title>
                     <!-- Favicon -->
                     <link rel="icon" href="assets/images/favicon.png">
                     <!-- Bootstrap -->
@@ -95,7 +95,7 @@
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                             <h3 class="section-content-title">
-                                                WEB DESIGN
+                                                Social Media
                                             </h3>
                                             <ul class="circles circles--red">
                                             <li>
@@ -113,62 +113,62 @@
                                 </div>
                             </div>
                         </div>
-
                         <!-- Section Content end -->
 
-                        
-
                         <div class="section-content-caption">
-                                                <p>We at REBEL tap on our expertise to create awesome websites and outstanding web applications that help your business stand out online. Your website is your company’s first impression to the world. We firmly believe that it is the most important marketing and sales platform that you have. That is why we strive to achieve the perfect balance of aesthetics and usability when we do website design. </p>
-                                                <p>A great website derives from the result of careful research, planning and specialist skills. Every single project of ours starts with a conversation. We work together with our clients extensively along the way to deliver a final product that exceeds expectations.  We expertise on the following key web sectors. </p>
+                                                <p>“If you are not on social media, you don’t exist.” We Harness the power of social with creative campaigns and engaging contents. We are specialized in Google Ads , Facebook , Instagram , Twitter ,YouTube &  Linkedin  management & marketing.  We focus our expertise  on the following key channels & segments coupling with other streams .</p>
                                             </div>
-
 
                         <!-- Section About -->
                         <div class="section-about">
                             <div class="container">
                                 <div class="row">
                                 <div class="row al-t">
-    
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/web1.jpg" class='section-why-us-block-icon' alt="why-us-img1">
-                                            <h4 class="section-why-us-block--title"> CORPORATE WEBs</h4>
+                                            <img src="assets/images/facebook.png" class='section-why-us-block-icon' alt="why-us-img1">
+                                            <h4 class="section-why-us-block--title"> FaceBook Marketing</h4>
                                             <p class="section-why-us-block--text1">
-                                            Today’s consumers expects an informative and accessible corporate website. They look for ways to interact digitally on every level ranging from personal to professional. REBEL can give you the competitive edge you need by having an effective corporate website design and development.
+                                            Facebook Marketing is the promotion of your brand, product or service through Facebook. Create brand loyalty by creating a Facebook page, interacting frequently with fans with engaging content, and garner new customers with paid ad campaigns, giveaways and more.
                                             </p>
                                             <p class="section-why-us-block--text1">
-                                            While corporate websites do not usually have shopping carts, you still need steady traffic to your sites in order to achieve and maintain quality rankings with browsers.  We know the cutting-edge techniques that will propel your website to the top. Let our team of professional designers craft an attractive, unique website that will engage visitors and increase customer interaction.
+                                            Using a combination of marketing strategies designed specifically for Facebook, combined with engaging, relevant content and eye-catching graphic design, Facebook Marketing is a brilliant way to not only retain existing customers, but to use their social credibility to garner new customers and capture market share. Also an active, well curated Facebook Page will also be an updated portfolio and landing page to impress future potential clients.
                                             </p>
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/web.png" class='section-why-us-block-icon' alt="why-us-img2">
-                                            <h4 class="section-why-us-block--title"> BRANDING WEBs</h4>
+                                            <img src="assets/images/youtube.jpg" class='section-why-us-block-icon' alt="why-us-img2">
+                                            <h4 class="section-why-us-block--title"> YouTube Marketing</h4>
                                             <p class="section-why-us-block--text1">
-                                            We at REBEL transforms your craziest ideas into perfect designs. We will understand your marketing goals and recommend ways that will ensure that your brand remains appealing to visitors. Our branding web designs are professional, sleek, attractive and easy to maintain. The more time your visitor spends on your website, the higher the possibility of them turning into customers! Your business is thriving, make it exciting .
+                                            With the right content, even with a small budget, you can increase brand awareness for your business with an active YouTube channel. YouTube videos can also improve your current marketing and PR mix. Video news releases are often picked up by news sites, and this will give you more coverage than the usual press release.
+                                            </p>
+                                            <p class="section-why-us-block--text1">
+                                            Compared to traditional TV advertising, YouTube videos are way more affordable. More importantly, unlike traditional commercials, YouTube also supplies you with valuable data and analytics, such as how many people watched your video, where they came from, and how long they spent watching your video. This is market research gold that will help you in your business.
                                             </p>
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/ecom.png" class='section-why-us-block-icon' alt="why-us-img3">
-                                            <h4 class="section-why-us-block--title"> E COMMERCE</h4>
+                                            <img src="assets/images/google.png" class='section-why-us-block-icon' alt="why-us-img3">
+                                            <h4 class="section-why-us-block--title"> Google Ads</h4>
                                             <p class="section-why-us-block--text1">
-                                            Grow your business through creating memorable online shopping experiences for your customers.You have your business and you want to bring it online, or thinking of building an eCommerce website to expand your business? Time to take this opportunity to dazzle them once more with a fresh eCommerce web design that’s attractive, easy-to-use, and intuitive.
+                                            Google Ads get your website seen on the first page of Google via Pay Per Click (PPC) ads while SEO is how you get your website seen by more ‘organic’ SEO strategies like web content and links. SEO typically takes a longer time to take effect.
                                             </p>
                                             <p class="section-why-us-block--text1">
-                                            Having an eCommerce website is more than just taking your business online; it is a chance to generate sales and revenue, strengthen your brand identity and create opportunities for spreading the word about your products and services, all at the convenience of a few clicks!
+                                            Compared to SEO, Google Ads come into effect faster. Google Ads campaigns are very flexible, you can also adjust your Google Ads and budget any time you like. You can also start, pause, or end your Google Ads campaign as you please. You can use Keyword Planner, a free Google tool to review keyword lists and existing statistics. You can view how a list of keywords may perform, and adjust it accordingly to your website and company’s needs.
                                             </p>
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/setting.jpg" class='section-why-us-block-icon' alt="why-us-img4">
-                                            <h4 class="section-why-us-block--title"> MAINTENANCE</h4>
+                                            <img src="assets/images/marketing.png" class='section-why-us-block-icon' alt="why-us-img4">
+                                            <h4 class="section-why-us-block--title"> Reputation Marketing</h4>
                                             <p class="section-why-us-block--text1">
-                                            Regular housekeeping on your website is necessary to maintain the brand. Our web maintenance services include: Content updating ,SEO , Website speed optimization ,Security updates, Responsive testing & fixing, SSL integration & many more
+                                            Reputation Management can help to manage and improve your brand image. Speed is key. You can limit the damage if you detect bad reviews and threats fast enough, and respond to them appropriately. Study the feedback and improve on your product and service. Respond to negative criticism and feedback with a gracious attitude. If you address your customers’ needs promptly and in a sincere manner, you may even convert a complaint into an opportunity to show that your brand cares, and improve your overall brand image.
+                                            </p>
+                                            <p class="section-why-us-block--text1">
+                                            Maintaining a positive brand reputation is a continuous process. You need to diligently monitor feedback, brand mentions, reviews and comments made about your products or services. However, once you make an online comment, the consequences are lasting. Therefore, it would be wise to craft your responses well.
                                             </p>
                                         </div>
                                     </div>

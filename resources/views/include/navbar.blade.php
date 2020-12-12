@@ -57,8 +57,8 @@
                                                 </a>
                                             </li>
                                             <li class="nav-item dropdown nav-item--mobile">
-                                            <a class="nav-link nav-link--mobile" href=#>
-                                                    Concepts
+                                            <a class="nav-link nav-link--mobile dropdown-toggle" href="branding"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    Branding
                                                     <ul class="circles-menu">
                                                         <li>
                                                             <span class="nav-link-circle nav-link-circle-f"></span>
@@ -71,18 +71,28 @@
                                                         </li>
                                                     </ul>
                                                 </a>
-                                                <!-- <ul class="dropdown-menu">
-                                                 <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="404.php">
-                                                        404
+                                                <ul class="dropdown-menu">
+                                                    <li class="dropdown-item--mobile">
+                                                        <a class="dropdown-link--mobile" href="branding">
+                                                        Guides
                                                         </a>
                                                     </li>
                                                     <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="under-maintenance.php">
-                                                        Coming Soon
+                                                        <a class="dropdown-link--mobile" href="branding">
+                                                        Strategy
                                                         </a>
                                                     </li>
-                                                </ul> -->
+                                                    <li class="dropdown-item--mobile">
+                                                        <a class="dropdown-link--mobile" href="branding">
+                                                        Drive
+                                                        </a>
+                                                    </li>
+                                                    <li class="dropdown-item--mobile">
+                                                        <a class="dropdown-link--mobile" href="branding">
+                                                        Audits
+                                                        </a>
+                                                    </li>
+                                                </ul>
                                             </li>
                                             <li class="nav-item dropdown nav-item--mobile">
                                             <a class="nav-link nav-link--mobile dropdown-toggle" href="webdesign"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -123,7 +133,7 @@
                                                 </ul>
                                             </li>
                                             <li class="nav-item dropdown nav-item--mobile">
-                                            <a class="nav-link nav-link--mobile" href=#>
+                                            <a class="nav-link nav-link--mobile dropdown-toggle" href="socialmedia"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                     Social Media
                                                     <ul class="circles-menu">
                                                         <li>
@@ -137,13 +147,28 @@
                                                         </li>
                                                     </ul>
                                                 </a>
-                                                <!-- <ul class="dropdown-menu">
+                                                <ul class="dropdown-menu">
                                                     <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="single-portfolio.php">
-                                                        Single Portfolio
+                                                        <a class="dropdown-link--mobile" href="socialmedia">
+                                                        Facebook
                                                         </a>
                                                     </li>
-                                                </ul> -->
+                                                    <li class="dropdown-item--mobile">
+                                                        <a class="dropdown-link--mobile" href="socialmedia">
+                                                        Youtube
+                                                        </a>
+                                                    </li>
+                                                    <li class="dropdown-item--mobile">
+                                                        <a class="dropdown-link--mobile" href="socialmedia">
+                                                        Google Ads
+                                                        </a>
+                                                    </li>
+                                                    <li class="dropdown-item--mobile">
+                                                        <a class="dropdown-link--mobile" href="socialmedia">
+                                                        Reputation 
+                                                        </a>
+                                                    </li>
+                                                </ul>
                                             </li>
                                             <li class="nav-item nav-item--mobile">
                                                 <a class="nav-link nav-link--mobile" href="elements.php">

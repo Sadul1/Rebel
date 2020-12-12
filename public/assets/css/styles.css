@@ -328,6 +328,7 @@ a:focus {
 }
 img {
   max-width: 100%;
+  
 }
 .wow {
   visibility: hidden;
@@ -1409,7 +1410,7 @@ img {
 /* 7. SECTION ABOUT */
 .section-about {
   padding: 80px 0;
-  background: #0d0d0d;
+  background: #000000;
 }
 
 .section-about2 {
@@ -1471,7 +1472,7 @@ img {
 }
 /* 8. SECTION RECENT PROJECTS */
 .section-project {
-  padding: 125px 0 105px;
+  padding: 80px 0 50px;
   background: url('../../assets/images/recent-projects--bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -1689,6 +1690,7 @@ img {
   text-transform: uppercase;
   margin-top: 35px;
   color: #ffffff;
+  text-align: center;
 }
 .section-why-us-block--text {
   margin-top: 14px;
@@ -1710,6 +1712,7 @@ img {
   color: #ffffff;
   line-height: 1.5;
   padding: 0 10px;
+  text-align: justify;
 }
 
 /* 10. SECTION REVIEWS */
@@ -3785,6 +3788,14 @@ img {
 .wrapper-service-single .section-content {
   text-align: center;
   margin-top: 30px;
+  margin-bottom: 25px;
+    /* height: 177px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* padding: 10px 0; */
+    background: url('../../assets/images/blog-section-pageinfo-bg.jpg');
+
 }
 .wrapper-service-single .section-content-inner {
   box-shadow: inset 0 16px 16px -16px rgba(192, 199, 202, 0.5);
@@ -3793,7 +3804,7 @@ img {
   font-family: "Oswald", sans-serif;
   font-style: normal;
   font-weight: 700;
-  color: #000;
+  color: #ffffff;
   font-size: 60px;
   letter-spacing: -1.4px;
   margin-top: 55px;
@@ -3839,16 +3850,22 @@ img {
   margin-top: 64px;
 }
 .wrapper-service-single .section-content-caption {
-  margin-top: 55px;
+  margin-top: 130px;
+  margin-bottom: 130px;
+  margin-left: 125px;
+  margin-right: 75px;
 }
+
+
 .wrapper-service-single .section-content-caption p {
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 20px;
+  line-height: 1.4;
   font-family: "Poppins", sans-serif;
-  font-style: normal;
+  font-style: italic;
   font-weight: 400;
-  color: #000;
-  text-align: left;
+  color: #000000;
+  text-align: center;
+
 }
 .wrapper-service-single .section-content-caption p:not(:first-child) {
   margin-top: 20px;
@@ -4676,6 +4693,7 @@ img {
   padding: 50px 0;
   background: url('../../assets/images/blog-section-pageinfo-bg.jpg');
 }
+
 .wrapper-blog .section-page-info-title {
   font-family: "Oswald", sans-serif;
   font-style: normal;

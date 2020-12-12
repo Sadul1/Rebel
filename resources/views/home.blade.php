@@ -108,13 +108,13 @@
                                         </div>
                                         <div class="slider-caption">
                                             <h2>Splash your <span>creativity</span></h2>
-                                            <p>“Estrella is a creative digital agency, composed of creative designers & experienced developers.”</p>
+                                            <p>“Our Developers & Designers are Digital Rebels who will create next level concepts”</p>
                                         </div>
                                     </div>
                                     <div class="slider-item slider-item-3">
                                         <div class="slider-caption">
                                             <h2>It's all about <span>perfection</span>, isn't it?</h2>
-                                            <p>“Estrella is a creative digital agency, composed of creative designers & experienced developers.”</p>
+                                            <p>“Every Single person in our team is called  a ROI – Results Oriented Individuals”</p>
                                         </div>
                                         <div class="slider-image">
                                             <img src="assets/images/slider-image3.png" alt="slider-item">
@@ -441,19 +441,19 @@
                                 </div>
                                 <div class="row justify-content-center  align-t">
                                     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-                                        <img src="assets/images/clients/our-clients1.png" alt="our-clients1">
+                                        <img src="assets/images/clients/100.png" alt="Good Year">
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-                                        <img src="assets/images/clients/our-clients2.png" alt="our-clients2">
+                                        <img src="assets/images/clients/200.png" alt="Maxxis">
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-                                        <img src="assets/images/clients/our-clients3.png" alt="our-clients3">
+                                        <img src="assets/images/clients/300.png" alt="Natures Secrets">
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-                                        <img src="assets/images/clients/our-clients4.png" alt="our-clients4">
+                                        <img src="assets/images/clients/400.png" alt="Kolombo">
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-                                        <img src="assets/images/clients/our-clients5.png" alt="our-clients5">
+                                        <img src="assets/images/clients/700.png" alt="Lucky">
                                     </div>
                                 </div>
                             </div>
