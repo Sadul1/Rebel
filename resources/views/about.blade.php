@@ -99,12 +99,12 @@
                                             ABOUT US
                                         </h3>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 tr-d">
+                                    <!-- <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 tr-d">
                                         <div class="section-page-info-breadcrumbs">
                                             <a href="index.php" class="home">Home</a>
                                             <a href="#" class="current">About Us</a>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

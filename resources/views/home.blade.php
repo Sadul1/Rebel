@@ -131,7 +131,7 @@
                         </div>
                     </div>    
                         <!-- Section About -->
-                        <div class="section-about">
+                        <!-- <div class="section-about">
                             <div class="container">
                                 <div class="row tc">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -157,10 +157,7 @@
                                             <p class="section-about-block--text">
                                             Our developers and designers help businesses achieve web excellence with compelling content, awesome designs & qualified traffic.
                                             </p>
-                                            <!-- <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
-                                                more details
-                                                <span class="btn--arrow-icon"></span>
-                                                </a> -->
+                        
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -170,10 +167,7 @@
                                             <p class="section-about-block--text">
                                             We will work on your company's digital marketing strategy, and manage areas such as SEM, SEO, social media marketing, creative, and more.
                                             </p>
-                                            <!-- <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
-                                                more details
-                                                <span class="btn--arrow-icon"></span>
-                                                </a> -->
+                                           
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -183,18 +177,15 @@
                                             <p class="section-about-block--text">
                                             We provide strategically adept concept designs with high-end creativity with a unique touch. What ever good things we build endup building us.
                                             </p>
-                                            <!-- <a href="about" class="btn btn--arrow btn--arrow-r btn-lg">
-                                                more details
-                                                <span class="btn--arrow-icon"></span>
-                                            </a> -->
+                                           
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Section About end -->
                         <!-- Section Portfolio -->
-                        <div class="section-project">
+                        <!-- <div class="section-project">
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -289,11 +280,11 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Section Portfolio end -->
 
                         <!-- Section Why Us -->
-                        <div class="section-why-us tc">
+                        <!-- <div class="section-why-us tc">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -350,78 +341,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!-- Section Why Us end -->
-
-
-                        <!-- Section Pricing -->
-                        <!-- <div class="section-pricing">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3>PRICING TABLE</h3>
-                                        <ul class="circles circles--red">
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                                        <div class="section-pricing-item mb-space">
-                                            <div class="section-pricing-layout">
-                                                <h4 class="section-pricing-title">BASIC</h4>
-                                                <span class="section-pricing-price">$199</span>
-                                                <ul class="section-pricing-nav">
-                                                    <li>Custom design</li>
-                                                    <li>15 days completion</li>
-                                                    <li>Short video</li>
-                                                </ul>
-                                                <a class="section-pricing-btn btn btn-red btn-md" href="contacts.php">ORDER NOW</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                                        <div class="section-pricing-item mb-space">
-                                            <div class="section-pricing-layout">
-                                                <h4 class="section-pricing-title">STANDART</h4>
-                                                <span class="section-pricing-price">$499</span>
-                                                <ul class="section-pricing-nav">
-                                                    <li>Custom design</li>
-                                                    <li>15 days completion</li>
-                                                    <li>Short video</li>
-                                                </ul>
-                                                <a class="section-pricing-btn btn btn-red btn-md" href="contacts.php">ORDER NOW</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                                        <div class="section-pricing-item">
-                                            <div class="section-pricing-layout">
-                                                <h4 class="section-pricing-title">PREMIUM</h4>
-                                                <span class="section-pricing-price">$799</span>
-                                                <ul class="section-pricing-nav">
-                                                    <li>Custom design</li>
-                                                    <li>3 days completion</li>
-                                                    <li>Explanatory video</li>
-                                                </ul>
-                                                <a class="section-pricing-btn btn btn-red btn-md" href="contacts.php">ORDER NOW</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div> -->
-                        <!-- Section Pricing end -->
+                        <!-- Section Why Us end -->
                         <!-- Section Clients -->
-                        <div class="section-clients">
+                        <!-- <div class="section-clients">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -457,10 +380,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Section Clients end -->
                         <!-- Section Proposition -->
-                        <div class="section-proposition">
+                        <!-- <div class="section-proposition">
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
@@ -476,7 +399,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Section Proposition end -->
                         <!-- Section Contacts -->
                         <!-- <div class="section-contacts tc" id="contacts">
@@ -525,7 +448,7 @@
                         </div> -->
                         <!-- Section Contacts end -->
                         <!-- Footer -->
-                        <footer class="footer">
+                        <!-- <footer class="footer">
                             <div class="footer-top">
                                 <div class="container">
                                     <div class="row justify-content-center">
@@ -582,8 +505,21 @@
                                     </div>
                                 </div>
                             </div>
-                        </footer>
+                        </footer> -->
                         <!-- Footer end -->
+
+                        <div class="footer-bottom">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                            <p class="footer-bottom-privacy">Copyright © 2018 by REBEL</p>
+                                            <p class="footer-bottom-privacy">All Right Reserved</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
                         <a class="to-top" id="buttonToTop"></a>
                     </div>
                     <!-- Video Lab Wrapper end -->

@@ -28,3 +28,11 @@ Route::get('/socialmedia', function () {
 Route::get('/branding', function () {
     return view('branding');
 });
+
+Route::get('/whyus', function () {
+    return view('whyus');
+});
+
+Route::get('/contacts', function () {
+    return view('contacts');
+});

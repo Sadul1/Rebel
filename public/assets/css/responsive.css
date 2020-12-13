@@ -292,7 +292,7 @@
     right: 0%;
   }
   .section-slider .owl-pagination {
-    margin-top: 45px;
+    /* margin-top: 45px; */
   }
   .section-slider .owl-pagination .owl-numbers {
     right: 12%;
@@ -1123,6 +1123,7 @@
     padding-left: 40px;
     font-size: 14px;
     line-height: 20px;
+    margin-bottom: 36px;
   }
   .section-slider .slider-item .slider-caption p:before {
     width: 25px;
@@ -2450,10 +2451,10 @@
     padding: 0;
   }
   .section-slider .slider-caption {
-    display: none;
+    /* display: none; */
   }
   .section-slider .owl-pagination {
-    margin-top: 10px;
+    /* margin-top: 10px; */
   }
   .section-about {
     padding: 25px 0;

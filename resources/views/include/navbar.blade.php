@@ -56,6 +56,22 @@
                                                     </ul>
                                                 </a>
                                             </li>
+                                            <li class="nav-item  nav-item--mobile">
+                                                <a class="nav-link nav-link--mobile" href="whyus">
+                                                    Why to choose REBEL
+                                                    <ul class="circles-menu">
+                                                        <li>
+                                                            <span class="nav-link-circle nav-link-circle-f"></span>
+                                                        </li>
+                                                        <li>
+                                                            <span class="nav-link-circle nav-link-circle-s"></span>
+                                                        </li>
+                                                        <li>
+                                                            <span class="nav-link-circle nav-link-circle-t"></span>
+                                                        </li>
+                                                    </ul>
+                                                </a>
+                                            </li>
                                             <li class="nav-item dropdown nav-item--mobile">
                                             <a class="nav-link nav-link--mobile dropdown-toggle" href="branding"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                     Branding
@@ -186,31 +202,8 @@
                                                     </ul>
                                                 </a>
                                             </li>
-                                            <!-- <li class="nav-item dropdown  nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile dropdown-toggle" href="blog.php"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    Blog
-                                                    <ul class="circles-menu">
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-f"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-s"></span>
-                                                        </li>
-                                                        <li>
-                                                            <span class="nav-link-circle nav-link-circle-t"></span>
-                                                        </li>
-                                                    </ul>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="dropdown-item--mobile">
-                                                        <a class="dropdown-link--mobile" href="blog-post.php">
-                                                        Blog Post
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li> -->
                                             <li class="nav-item nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile" href="contacts.php">
+                                                <a class="nav-link nav-link--mobile" href="contacts">
                                                     Contacts
                                                     <ul class="circles-menu">
                                                         <li>

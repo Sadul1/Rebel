@@ -1182,7 +1182,7 @@ img {
 }
 /* 6. SECTION SLIDER STYLES */
 .section-slider {
-  margin-top: 50px;
+  margin-top: 10px;
 }
 .section-slider .slider-item {
   display: -ms-flexbox;
@@ -1352,7 +1352,7 @@ img {
   position: relative;
   text-align: center;
   z-index: 1;
-  margin-top: 70px;
+  /* margin-top: 10px; */
 }
 .section-slider .owl-pagination:before {
   position: absolute;
@@ -1413,6 +1413,11 @@ img {
   background: #ffffff;
 }
 
+.section-about1 {
+  padding: 80px 0;
+  background: #ffffff;
+}
+
 .section-about2 {
   padding: 125px 0;
   background: #ffffff;
@@ -1441,12 +1446,31 @@ img {
   font-size: 24px;
   letter-spacing: -1px;
 }
+.section-about-block--numb1 {
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: -1px;
+}
 .section-about-block--title {
   display: inline-block;
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 300;
   color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1px;
+  margin-left: 5px;
+}
+.section-about-block--title1 {
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  color: #000000;
   font-size: 24px;
   letter-spacing: -1px;
   margin-left: 5px;
@@ -1458,6 +1482,16 @@ img {
   font-weight: 400;
   font-size: 16px;
   color: #ffffff;
+  line-height: 1.5;
+}
+.section-about-block--text1 {
+  margin-top: 14px;
+  margin-bottom: 65px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
   line-height: 1.5;
 }
 .section-about-block .btn {
@@ -3266,6 +3300,14 @@ img {
   font-size: 60px;
   letter-spacing: -1.4px;
 }
+.wrapper-about-us .section-page-info-title1 {
+  font-family: "Oswald", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: -1.4px;
+}
 .wrapper-about-us .section-page-info-breadcrumbs {
   background: #000;
   padding: 0 21px;
@@ -3340,6 +3382,14 @@ img {
   padding-left: 19.4%;
   padding-right: 3.45%;
 }
+.wrapper-about-us .section-give-boost-info1 {
+  background: url('../../assets/images/page-info-bg.jpg');
+  padding: 145px 0 140px;
+  width: 50%;
+  padding-left: 19.4%;
+  padding-right: 3.45%;
+}
+
 .wrapper-about-us .section-give-boost-image {
   width: 50%;
   background-repeat: no-repeat;
