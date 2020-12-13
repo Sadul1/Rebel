@@ -58,7 +58,7 @@
                                             </li>
                                             <li class="nav-item  nav-item--mobile">
                                                 <a class="nav-link nav-link--mobile" href="whyus">
-                                                    Why to choose REBEL
+                                                    Why Us
                                                     <ul class="circles-menu">
                                                         <li>
                                                             <span class="nav-link-circle nav-link-circle-f"></span>

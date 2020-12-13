@@ -50,7 +50,7 @@
                                 <div class="container">
                                     <div class="row align-items-center">
                                         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-2 w25-tb">
-                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">estrellaagency@gmail.com</a>
+                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">hello@rebel.lk</a>
                                         </div>
                                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8 w50-tb">
                                             <div class="divider divider-gray divider-circles mb-space">
@@ -65,11 +65,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -132,7 +132,7 @@
     
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/web1.jpg" class='section-why-us-block-icon' alt="why-us-img1">
+                                            <!-- <img src="assets/images/web1.jpg" class='section-why-us-block-icon' alt="why-us-img1"> -->
                                             <h4 class="section-why-us-block--title1"> CORPORATE WEBs</h4>
                                             <p class="section-why-us-block--text1">
                                             Today’s consumers expects an informative and accessible corporate website. They look for ways to interact digitally on every level ranging from personal to professional. REBEL can give you the competitive edge you need by having an effective corporate website design and development.
@@ -144,7 +144,7 @@
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/web.png" class='section-why-us-block-icon' alt="why-us-img2">
+                                            <!-- <img src="assets/images/web.png" class='section-why-us-block-icon' alt="why-us-img2"> -->
                                             <h4 class="section-why-us-block--title1"> BRANDING WEBs</h4>
                                             <p class="section-why-us-block--text1">
                                             We at REBEL transforms your craziest ideas into perfect designs. We will understand your marketing goals and recommend ways that will ensure that your brand remains appealing to visitors. Our branding web designs are professional, sleek, attractive and easy to maintain. The more time your visitor spends on your website, the higher the possibility of them turning into customers! Your business is thriving, make it exciting .
@@ -153,7 +153,7 @@
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/ecom.png" class='section-why-us-block-icon' alt="why-us-img3">
+                                            <!-- <img src="assets/images/ecom.png" class='section-why-us-block-icon' alt="why-us-img3"> -->
                                             <h4 class="section-why-us-block--title1"> E COMMERCE</h4>
                                             <p class="section-why-us-block--text1">
                                             Grow your business through creating memorable online shopping experiences for your customers.You have your business and you want to bring it online, or thinking of building an eCommerce website to expand your business? Time to take this opportunity to dazzle them once more with a fresh eCommerce web design that’s attractive, easy-to-use, and intuitive.
@@ -165,7 +165,7 @@
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/setting.jpg" class='section-why-us-block-icon' alt="why-us-img4">
+                                            <!-- <img src="assets/images/setting.jpg" class='section-why-us-block-icon' alt="why-us-img4"> -->
                                             <h4 class="section-why-us-block--title1"> MAINTENANCE</h4>
                                             <p class="section-why-us-block--text1">
                                             Regular housekeeping on your website is necessary to maintain the brand. Our web maintenance services include: Content updating ,SEO , Website speed optimization ,Security updates, Responsive testing & fixing, SSL integration & many more
@@ -176,22 +176,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Section About end -->
-                        <!-- Section Info -->
-                        <!-- <div class="section-info">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <img src="assets/images/service-single-image2.jpg" class="section-info-image" alt="section-info-image1">
-                                        <div class="section-info-caption">
-                                            <p>There really shouldn’t be any big surprises at this stage; all key stakeholders should already be on board having been involved in each key step that went before. </p>
-                                            <p>Nevertheless, like any good recipe, there are still many ways to interpret the same ingredients. This is where the art of our designers come to the fore, helping us to really nail that all-important design. </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                        <!-- Section Info end -->
+                        
                         <div class="section-proposition">
                             <div class="container">
                                 <div class="row align-items-center">
@@ -218,7 +203,7 @@
                                             <a href="index.php" class="logo footer-top--logo">
                                             <img src="assets/images/footer_logo.png" alt="footer-logo">
                                             </a>
-                                            <p class="footer-top-text">Estrella is a full-suite creative agency providing digital marketing, web design, and video creation services and custom solutions that increase sales and authority for businesses just like yours.
+                                            <p class="footer-top-text">REBEL is one of the leading full-suite creative agency in Sri Lanka,  providing Branding Solutions, Unique Web Designs & Social Media Marketing that increases sales and authority for businesses just like yours.
                                             </p>
                                             <ul class="circles circles--red">
                                                 <li>
@@ -237,11 +222,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -257,7 +242,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="footer-bottom">
+                            <!-- <div class="footer-bottom">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -266,7 +251,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </footer>
                         <!-- Footer end -->
                         <a class="to-top" id="buttonToTop"></a>

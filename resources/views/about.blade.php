@@ -50,7 +50,7 @@
                                 <div class="container">
                                     <div class="row align-items-center">
                                         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-2 w25-tb">
-                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">estrellaagency@gmail.com</a>
+                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">hello@rebel.lk</a>
                                         </div>
                                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8 w50-tb">
                                             <div class="divider divider-gray divider-circles mb-space">
@@ -65,11 +65,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -181,7 +181,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                        <img src="assets/images/section-about-template.jpg" class="mb-space" alt="section-about-template-image">
+                                        <img src="assets/images/section-about-template.png" class="mb-space" alt="section-about-template-image">
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <div class="section-about-template-info">
@@ -194,209 +194,13 @@
                                             <!-- <p class="section-about-template-text">
                                                 We are offering different packages and custom solutions for different business types and guarantee your success in less than 3 months of cooperation.
                                             </p> -->
-                                            <a href="services.php" class="section-about-template-btn btn btn-md btn-r">OUR SERVICES</a>
+                                            <!-- <a href="services.php" class="section-about-template-btn btn btn-md btn-r">OUR SERVICES</a> -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- Section About Template end -->
-                        <!-- Section Our Team -->
-                        <!-- <div class="section-our-team">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3>MEET OUR TEAM</h3>
-                                        <ul class="circles circles--red">
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <div class="owl-carousel--our-team owl-carousel">
-                                            <div class="section-our-team-slide section-our-team-slide--1">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">Emma jackson</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div>
-                                            <div class="section-our-team-slide section-our-team-slide--2">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">NICHOLAS BELL</h4>
-                                                    <p class="section-our-team-job">CEO</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div>
-                                            <div class="section-our-team-slide section-our-team-slide--3">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">GREGORY RAMOS</h4>
-                                                    <p class="section-our-team-job">Digital Strategist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div>
-                                            <div class="section-our-team-slide section-our-team-slide--4">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">MILA DEAN</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div>
-                                            <div class="section-our-team-slide section-our-team-slide--5">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">JENNIFER MILLER</h4>
-                                                    <p class="section-our-team-job">Brand Specialist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                        <!-- Section Our Team end -->
-                        <!-- Section Contacts -->
-                        <!-- <div class="section-contacts tc">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3>CONTACT US</h3>
-                                        <ul class="circles circles--red">
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
-                                        <ul class="section-contacts-nav">
-                                            <li class="section-contacts-item">
-                                                <img src="assets/images/contacts/item1.png" alt="contacts-img1" class="section-contacts-image">
-                                                <div class="section-contacts-info">
-                                                    <span class="section-contacts-text">U can call us 24/7</span>
-                                                    <a href="#" class="section-contacts-link">+9 000 234 567</a>
-                                                    <a href="#" class="section-contacts-link">+9 000 234 573</a>
-                                                </div>
-                                            </li>
-                                            <li class="section-contacts-item">
-                                                <img src="assets/images/contacts/item2.png" alt="contacts-img2" class="section-contacts-image">
-                                                <div class="section-contacts-info">
-                                                    <span class="section-contacts-text">Our location</span>
-                                                    <a href="#" class="section-contacts-link">3909 Witmer Road, Niagara</a>
-                                                    <a href="#" class="section-contacts-link">New York City</a>
-                                                </div>
-                                            </li>
-                                            <li class="section-contacts-item">
-                                                <img src="assets/images/contacts/item3.png" alt="contacts-img3" class="section-contacts-image">
-                                                <div class="section-contacts-info">
-                                                    <span class="section-contacts-text">Email</span>
-                                                    <a href="#" class="section-contacts-link">info@example.com</a>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
-                                        <div class="section-contacts-form">
-                                            <form method="POST" id="contactform" name="contactform">
-                                                <div class="section-contacts-form-row">
-                                                    <div class="section-contacts-form-group mb-space">
-                                                        <input type="text" class="section-contacts-form-field  form-control" id="form_name" name="form_name" placeholder="Name">
-                                                    </div>
-                                                    <div class="section-contacts-form-group mb-space">
-                                                        <input type="text" class="section-contacts-form-field form-control" id="form_email" name="form_email" placeholder="Email">
-                                                    </div>
-                                                </div>
-                                                <div class="section-contacts-form-row">
-                                                    <div class="section-contacts-form-group mb-space">
-                                                        <textarea class="section-contacts-form-field section-contacts-form-textarea  form-control" id="form_message" name="form_message" placeholder="Message"></textarea>
-                                                    </div>
-                                                </div>
-                                                <div class="result-success"></div>
-                                                <div class="result-error"></div>
-                                                <button type="submit" class="btn btn-lg btn-r">SEND</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                        <!-- Section Contacts end -->
+                        
                         <!-- Footer -->
                         <footer class="footer">
                             <div class="footer-top">
@@ -406,7 +210,7 @@
                                             <a href="index.php" class="logo footer-top--logo">
                                             <img src="assets/images/footer_logo.png" alt="footer-logo">
                                             </a>
-                                            <p class="footer-top-text">Estrella is a full-suite creative agency providing digital marketing, web design, and video creation services and custom solutions that increase sales and authority for businesses just like yours.
+                                            <p class="footer-top-text">REBEL is one of the leading full-suite creative agency in Sri Lanka,  providing Branding Solutions, Unique Web Designs & Social Media Marketing that increases sales and authority for businesses just like yours.
                                             </p>
                                             <ul class="circles circles--red">
                                                 <li>
@@ -425,11 +229,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -445,7 +249,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="footer-bottom">
+                            <!-- <div class="footer-bottom">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -454,7 +258,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </footer>
                         <!-- Footer end -->
                         <a class="to-top" id="buttonToTop"></a>

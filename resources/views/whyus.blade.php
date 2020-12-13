@@ -16,7 +16,7 @@
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
                     <script src="https://kit.fontawesome.com/caef0b341f.js" crossorigin="anonymous"></script>
                     <!-- Title  -->
-                    <title> REBEL | Why REBEL</title>
+                    <title> REBEL | Why Us</title>
                     <!-- Favicon -->
                     <link rel="icon" href="assets/images/favicon.png">
                     <!-- Bootstrap -->
@@ -50,7 +50,7 @@
                                 <div class="container">
                                     <div class="row align-items-center">
                                         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-2 w25-tb">
-                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">estrellaagency@gmail.com</a>
+                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">hello@rebel.lk</a>
                                         </div>
                                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8 w50-tb">
                                             <div class="divider divider-gray divider-circles mb-space">
@@ -65,11 +65,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -198,7 +198,7 @@
                                             <a href="index.php" class="logo footer-top--logo">
                                             <img src="assets/images/footer_logo.png" alt="footer-logo">
                                             </a>
-                                            <p class="footer-top-text">Estrella is a full-suite creative agency providing digital marketing, web design, and video creation services and custom solutions that increase sales and authority for businesses just like yours.
+                                            <p class="footer-top-text">REBEL is one of the leading full-suite creative agency in Sri Lanka,  providing Branding Solutions, Unique Web Designs & Social Media Marketing that increases sales and authority for businesses just like yours.
                                             </p>
                                             <ul class="circles circles--red">
                                                 <li>
@@ -217,11 +217,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -237,7 +237,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="footer-bottom">
+                            <!-- <div class="footer-bottom">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -246,7 +246,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </footer>
                         <!-- Footer end -->
                         <a class="to-top" id="buttonToTop"></a>

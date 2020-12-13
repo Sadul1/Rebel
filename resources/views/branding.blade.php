@@ -50,7 +50,7 @@
                                 <div class="container">
                                     <div class="row align-items-center">
                                         <div class="col-xs-12 col-sm-12 col-md-3 col-lg-2 w25-tb">
-                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">estrellaagency@gmail.com</a>
+                                            <a href="mailto:estrellaagency@gmail.com" class="link--mail mb-space">hello@rebel.lk</a>
                                         </div>
                                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8 w50-tb">
                                             <div class="divider divider-gray divider-circles mb-space">
@@ -65,11 +65,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -127,7 +127,7 @@
                                 <div class="row al-t">
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/facebook.png" class='section-why-us-block-icon' alt="why-us-img1">
+                                            <!-- <img src="assets/images/facebook.png" class='section-why-us-block-icon' alt="why-us-img1"> -->
                                             <h4 class="section-why-us-block--title1"> Brand Guides</h4>
                                             <p class="section-why-us-block--text1">
                                             A brand style guide takes the heart and soul of your brand—your mission, vision and values—and translates it into design. It also tells everyone exactly how to communicate your brand. A brand style guide is a rulebook that explains how an organization presents itself to the world through its logo, font and color selections, photography and much more. Put another way, it’s a reference tool that helps maintain consistency in what a brand looks, feels and sounds like. Using a brand book ensures that your brand looks and feels the same, even when you have different people working on customer service, marketing, design and sales.
@@ -136,7 +136,7 @@
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/youtube.jpg" class='section-why-us-block-icon' alt="why-us-img2">
+                                            <!-- <img src="assets/images/youtube.jpg" class='section-why-us-block-icon' alt="why-us-img2"> -->
                                             <h4 class="section-why-us-block--title1"> Brand Strategy</h4>
                                             <p class="section-why-us-block--text1">
                                             Your Brand Strategy sums up why your business exists beyond making money. It defines what it is that makes your brand what it is, what sets it apart from the competition and how you want your customers to perceive it. After all, if you can't clearly pinpoint what makes your brand different, how will anyone else? By leveraging an effective strategy makes it easy for prospective customers to evaluate them in comparison to the competition. 
@@ -146,7 +146,7 @@
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/google.png" class='section-why-us-block-icon' alt="why-us-img3">
+                                            <!-- <img src="assets/images/google.png" class='section-why-us-block-icon' alt="why-us-img3"> -->
                                             <h4 class="section-why-us-block--title1"> Brand Drive</h4>
                                             <p class="section-why-us-block--text1">
                                             It is time to drive your brand in the market after implementing guides & strategies. The key here is to accurately select the correct channel at the correct time.  With a strong brand drive, you can guide prospects through the buyer’s journey more quickly , from the awareness stage to the consideration and decision stages.
@@ -156,7 +156,7 @@
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
-                                            <img src="assets/images/marketing.png" class='section-why-us-block-icon' alt="why-us-img4">
+                                            <!-- <img src="assets/images/marketing.png" class='section-why-us-block-icon' alt="why-us-img4"> -->
                                             <h4 class="section-why-us-block--title1"> Brand Audit</h4>
                                             <p class="section-why-us-block--text1">
                                             It is important to scan the brand strategy & drive at regular intervals to check it’s performance levels. A scientific method should be in place to verify the quantify & qualitativeness   to measure the results. These results could be utilized for amendments or boosting of the brand drive or strategy.
@@ -210,7 +210,7 @@
                                             <a href="index.php" class="logo footer-top--logo">
                                             <img src="assets/images/footer_logo.png" alt="footer-logo">
                                             </a>
-                                            <p class="footer-top-text">Estrella is a full-suite creative agency providing digital marketing, web design, and video creation services and custom solutions that increase sales and authority for businesses just like yours.
+                                            <p class="footer-top-text">REBEL is one of the leading full-suite creative agency in Sri Lanka,  providing Branding Solutions, Unique Web Designs & Social Media Marketing that increases sales and authority for businesses just like yours.
                                             </p>
                                             <ul class="circles circles--red">
                                                 <li>
@@ -229,11 +229,11 @@
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a href="#">
                                                     <i class="fa fa-linkedin"></i>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                                 <li>
                                                     <a href="#">
                                                     <i class="fa fa-instagram"></i>
@@ -249,7 +249,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="footer-bottom">
+                            <!-- <div class="footer-bottom">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -258,7 +258,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </footer>
                         <!-- Footer end -->
                         <a class="to-top" id="buttonToTop"></a>
