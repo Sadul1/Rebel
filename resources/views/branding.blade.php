@@ -115,7 +115,7 @@
                         </div>
                         <!-- Section Content end -->
 
-                        <div class="section-content-caption">
+                        <div class="section-content-caption2">
                                                 <p>“People don’t buy products, they buy brands,” is an old business saying that gets to the heart of what branding is all about. In a word: trust. Eye-catching, meaningful, and memorable brand elements foster greater recognition and connection among customers. Over time, this relationship develops into one of trust.  Branding strategy is the catalyst by which customers understand, purchase, and eventually come to rely on a particular company or product. By creating a concrete identity, branding fuels the assumption that a product will reliably provide the same results time and again. </p>
                                                 <p>We at REBEL drives your brand on a scientific method &  an out of the box concepts. </p>
                                             </div>
@@ -128,7 +128,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/facebook.png" class='section-why-us-block-icon' alt="why-us-img1">
-                                            <h4 class="section-why-us-block--title"> Brand Guides</h4>
+                                            <h4 class="section-why-us-block--title1"> Brand Guides</h4>
                                             <p class="section-why-us-block--text1">
                                             A brand style guide takes the heart and soul of your brand—your mission, vision and values—and translates it into design. It also tells everyone exactly how to communicate your brand. A brand style guide is a rulebook that explains how an organization presents itself to the world through its logo, font and color selections, photography and much more. Put another way, it’s a reference tool that helps maintain consistency in what a brand looks, feels and sounds like. Using a brand book ensures that your brand looks and feels the same, even when you have different people working on customer service, marketing, design and sales.
                                             </p>
@@ -137,7 +137,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/youtube.jpg" class='section-why-us-block-icon' alt="why-us-img2">
-                                            <h4 class="section-why-us-block--title"> Brand Strategy</h4>
+                                            <h4 class="section-why-us-block--title1"> Brand Strategy</h4>
                                             <p class="section-why-us-block--text1">
                                             Your Brand Strategy sums up why your business exists beyond making money. It defines what it is that makes your brand what it is, what sets it apart from the competition and how you want your customers to perceive it. After all, if you can't clearly pinpoint what makes your brand different, how will anyone else? By leveraging an effective strategy makes it easy for prospective customers to evaluate them in comparison to the competition. 
                                             </p>
@@ -147,7 +147,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/google.png" class='section-why-us-block-icon' alt="why-us-img3">
-                                            <h4 class="section-why-us-block--title"> Brand Drive</h4>
+                                            <h4 class="section-why-us-block--title1"> Brand Drive</h4>
                                             <p class="section-why-us-block--text1">
                                             It is time to drive your brand in the market after implementing guides & strategies. The key here is to accurately select the correct channel at the correct time.  With a strong brand drive, you can guide prospects through the buyer’s journey more quickly , from the awareness stage to the consideration and decision stages.
                                             </p>
@@ -157,7 +157,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/marketing.png" class='section-why-us-block-icon' alt="why-us-img4">
-                                            <h4 class="section-why-us-block--title"> Brand Audit</h4>
+                                            <h4 class="section-why-us-block--title1"> Brand Audit</h4>
                                             <p class="section-why-us-block--text1">
                                             It is important to scan the brand strategy & drive at regular intervals to check it’s performance levels. A scientific method should be in place to verify the quantify & qualitativeness   to measure the results. These results could be utilized for amendments or boosting of the brand drive or strategy.
                                             </p>

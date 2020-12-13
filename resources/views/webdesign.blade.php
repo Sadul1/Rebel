@@ -118,7 +118,7 @@
 
                         
 
-                        <div class="section-content-caption">
+                        <div class="section-content-caption1">
                                                 <p>We at REBEL tap on our expertise to create awesome websites and outstanding web applications that help your business stand out online. Your website is your company’s first impression to the world. We firmly believe that it is the most important marketing and sales platform that you have. That is why we strive to achieve the perfect balance of aesthetics and usability when we do website design. </p>
                                                 <p>A great website derives from the result of careful research, planning and specialist skills. Every single project of ours starts with a conversation. We work together with our clients extensively along the way to deliver a final product that exceeds expectations.  We expertise on the following key web sectors. </p>
                                             </div>
@@ -133,7 +133,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/web1.jpg" class='section-why-us-block-icon' alt="why-us-img1">
-                                            <h4 class="section-why-us-block--title"> CORPORATE WEBs</h4>
+                                            <h4 class="section-why-us-block--title1"> CORPORATE WEBs</h4>
                                             <p class="section-why-us-block--text1">
                                             Today’s consumers expects an informative and accessible corporate website. They look for ways to interact digitally on every level ranging from personal to professional. REBEL can give you the competitive edge you need by having an effective corporate website design and development.
                                             </p>
@@ -145,7 +145,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/web.png" class='section-why-us-block-icon' alt="why-us-img2">
-                                            <h4 class="section-why-us-block--title"> BRANDING WEBs</h4>
+                                            <h4 class="section-why-us-block--title1"> BRANDING WEBs</h4>
                                             <p class="section-why-us-block--text1">
                                             We at REBEL transforms your craziest ideas into perfect designs. We will understand your marketing goals and recommend ways that will ensure that your brand remains appealing to visitors. Our branding web designs are professional, sleek, attractive and easy to maintain. The more time your visitor spends on your website, the higher the possibility of them turning into customers! Your business is thriving, make it exciting .
                                             </p>
@@ -154,7 +154,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/ecom.png" class='section-why-us-block-icon' alt="why-us-img3">
-                                            <h4 class="section-why-us-block--title"> E COMMERCE</h4>
+                                            <h4 class="section-why-us-block--title1"> E COMMERCE</h4>
                                             <p class="section-why-us-block--text1">
                                             Grow your business through creating memorable online shopping experiences for your customers.You have your business and you want to bring it online, or thinking of building an eCommerce website to expand your business? Time to take this opportunity to dazzle them once more with a fresh eCommerce web design that’s attractive, easy-to-use, and intuitive.
                                             </p>
@@ -166,7 +166,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/setting.jpg" class='section-why-us-block-icon' alt="why-us-img4">
-                                            <h4 class="section-why-us-block--title"> MAINTENANCE</h4>
+                                            <h4 class="section-why-us-block--title1"> MAINTENANCE</h4>
                                             <p class="section-why-us-block--text1">
                                             Regular housekeeping on your website is necessary to maintain the brand. Our web maintenance services include: Content updating ,SEO , Website speed optimization ,Security updates, Responsive testing & fixing, SSL integration & many more
                                             </p>

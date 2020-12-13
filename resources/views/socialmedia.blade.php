@@ -127,7 +127,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/facebook.png" class='section-why-us-block-icon' alt="why-us-img1">
-                                            <h4 class="section-why-us-block--title"> FaceBook Marketing</h4>
+                                            <h4 class="section-why-us-block--title1"> FaceBook Marketing</h4>
                                             <p class="section-why-us-block--text1">
                                             Facebook Marketing is the promotion of your brand, product or service through Facebook. Create brand loyalty by creating a Facebook page, interacting frequently with fans with engaging content, and garner new customers with paid ad campaigns, giveaways and more.
                                             </p>
@@ -139,7 +139,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/youtube.jpg" class='section-why-us-block-icon' alt="why-us-img2">
-                                            <h4 class="section-why-us-block--title"> YouTube Marketing</h4>
+                                            <h4 class="section-why-us-block--title1"> YouTube Marketing</h4>
                                             <p class="section-why-us-block--text1">
                                             With the right content, even with a small budget, you can increase brand awareness for your business with an active YouTube channel. YouTube videos can also improve your current marketing and PR mix. Video news releases are often picked up by news sites, and this will give you more coverage than the usual press release.
                                             </p>
@@ -151,7 +151,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/google.png" class='section-why-us-block-icon' alt="why-us-img3">
-                                            <h4 class="section-why-us-block--title"> Google Ads</h4>
+                                            <h4 class="section-why-us-block--title1"> Google Ads</h4>
                                             <p class="section-why-us-block--text1">
                                             Google Ads get your website seen on the first page of Google via Pay Per Click (PPC) ads while SEO is how you get your website seen by more ‘organic’ SEO strategies like web content and links. SEO typically takes a longer time to take effect.
                                             </p>
@@ -163,7 +163,7 @@
                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
                                         <div class="section-why-us-block mb-space">
                                             <img src="assets/images/marketing.png" class='section-why-us-block-icon' alt="why-us-img4">
-                                            <h4 class="section-why-us-block--title"> Reputation Marketing</h4>
+                                            <h4 class="section-why-us-block--title1"> Reputation Marketing</h4>
                                             <p class="section-why-us-block--text1">
                                             Reputation Management can help to manage and improve your brand image. Speed is key. You can limit the damage if you detect bad reviews and threats fast enough, and respond to them appropriately. Study the feedback and improve on your product and service. Respond to negative criticism and feedback with a gracious attitude. If you address your customers’ needs promptly and in a sincere manner, you may even convert a complaint into an opportunity to show that your brand cares, and improve your overall brand image.
                                             </p>
