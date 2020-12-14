@@ -2454,7 +2454,7 @@
     /* display: none; */
   }
   .section-slider .owl-pagination {
-    /* margin-top: 10px; */
+    margin-top: auto;
   }
   .section-about {
     padding: 25px 0;

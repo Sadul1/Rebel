@@ -104,7 +104,7 @@
                                     </div>
                                     <div class="slider-item slider-item-2">
                                         <div class="slider-image">
-                                            <img src="assets/images/slider-image2.png" alt="slider-item">
+                                            <img src="assets/images/slider-image2.jpg" alt="slider-item">
                                         </div>
                                         <div class="slider-caption">
                                             <h2>Splash your <span>creativity</span></h2>
@@ -117,7 +117,7 @@
                                             <p>“Every Single person in our team is called  a ROI – Results Oriented Individuals”</p>
                                         </div>
                                         <div class="slider-image">
-                                            <img src="assets/images/slider-image3.png" alt="slider-item">
+                                            <img src="assets/images/slider-image3.jpg" alt="slider-item">
                                         </div>
                                     </div>
                                 </div>
