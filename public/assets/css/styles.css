@@ -1352,12 +1352,12 @@ img {
 .section-slider .owl-slider--home .owl-next:focus:before {
   width: 110px;
 }
-.section-slider .owl-pagination {
+/* .section-slider .owl-pagination {
   position: relative;
   text-align: center;
   z-index: 1;
   margin-top: auto;
-}
+} */
 .section-slider .owl-pagination:before {
   position: absolute;
   content: "";
