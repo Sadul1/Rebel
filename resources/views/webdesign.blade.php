@@ -189,7 +189,7 @@
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 tr mb-center">
-                                        <a href="#contacts" class="section-proposition-btn btn btn-b btn-lg">REQUEST A CALLBACK</a>
+                                        <a href="tel:+94773610683" class="section-proposition-btn btn btn-b btn-lg">REQUEST A CALLBACK</a>
                                     </div>
                                 </div>
                             </div>

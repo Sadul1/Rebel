@@ -136,7 +136,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                            <p class="footer-bottom-privacy">Copyright © 2018 by REBEL</p>
+                                            <p class="footer-bottom-privacy">Copyright © 2020 by REBEL</p>
                                             <p class="footer-bottom-privacy">All Right Reserved</p>
                                         </div>
                                     </div>

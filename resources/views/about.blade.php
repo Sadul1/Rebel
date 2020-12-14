@@ -201,6 +201,25 @@
                             </div>
                         </div>
                         
+                        <div class="section-proposition">
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                                        <div class="section-proposition-title">
+                                            <h2>SOMETHING AMAZING</h2>
+                                            <h3>TOGETHER</h3>
+                                            <div class="section-proposition-text">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 tr mb-center">
+                                        <a href="tel:+94773610683" class="section-proposition-btn btn btn-b btn-lg">REQUEST A CALLBACK</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
                         <!-- Footer -->
                         <footer class="footer">
                             <div class="footer-top">
