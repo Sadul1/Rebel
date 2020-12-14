@@ -330,6 +330,9 @@ img {
   max-width: 100%;
   
 }
+.wrapperOV{
+  overflow: hidden
+}
 .wow {
   visibility: hidden;
 }
@@ -362,6 +365,7 @@ img {
   color: #ff0000;
   font-size: 18px;
 }
+
 .socials li a:hover,
 .socials li a:focus {
   color: #000;
@@ -1352,7 +1356,7 @@ img {
   position: relative;
   text-align: center;
   z-index: 1;
-  /* margin-top: 10px; */
+  margin-top: 12px;
 }
 .section-slider .owl-pagination:before {
   position: absolute;
