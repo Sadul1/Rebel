@@ -61,7 +61,7 @@
                                             <p class="socials--title">get social</p>
                                             <ul class="socials socials-red">
                                                 <li>
-                                                    <a href="#">
+                                                    <a href="https://twitter.com/rebel_lk?s=08">
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
@@ -71,12 +71,12 @@
                                                     </a>
                                                 </li> -->
                                                 <li>
-                                                    <a href="#">
+                                                    <a href="https://instagram.com/rebel.lk?igshid=1amkokwwg0pcd">
                                                     <i class="fa fa-instagram"></i>
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">
+                                                    <a href="https://www.facebook.com/Rebel.Axtriax">
                                                     <i class="fa fa-facebook-f"></i>
                                                     </a>
                                                 </li>
@@ -213,7 +213,7 @@
                                             </ul>
                                             <ul class="socials socials-red">
                                                 <li>
-                                                    <a href="#">
+                                                    <a href="https://twitter.com/rebel_lk?s=08">
                                                     <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
@@ -223,12 +223,12 @@
                                                     </a>
                                                 </li> -->
                                                 <li>
-                                                    <a href="#">
+                                                    <a href="https://instagram.com/rebel.lk?igshid=1amkokwwg0pcd">
                                                     <i class="fa fa-instagram"></i>
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">
+                                                    <a href="https://www.facebook.com/Rebel.Axtriax">
                                                     <i class="fa fa-facebook-f"></i>
                                                     </a>
                                                 </li>

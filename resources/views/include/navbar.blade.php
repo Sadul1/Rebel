@@ -187,7 +187,7 @@
                                                 </ul>
                                             </li>
                                             <li class="nav-item nav-item--mobile">
-                                                <a class="nav-link nav-link--mobile" href="elements.php">
+                                                <a class="nav-link nav-link--mobile" href="clients">
                                                     Clients
                                                     <ul class="circles-menu">
                                                         <li>

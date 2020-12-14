@@ -36,3 +36,7 @@ Route::get('/whyus', function () {
 Route::get('/contacts', function () {
     return view('contacts');
 });
+
+Route::get('/clients', function () {
+    return view('clients');
+});
