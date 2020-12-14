@@ -292,7 +292,7 @@
     right: 0%;
   }
   .section-slider .owl-pagination {
-    margin-top: 45px;
+    margin-top: auto;
   }
   .section-slider .owl-pagination .owl-numbers {
     right: 12%;

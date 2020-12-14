@@ -1356,7 +1356,7 @@ img {
   position: relative;
   text-align: center;
   z-index: 1;
-  margin-top: 12px;
+  margin-top: auto;
 }
 .section-slider .owl-pagination:before {
   position: absolute;
