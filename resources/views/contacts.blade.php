@@ -117,10 +117,10 @@
                                                 <img src="assets/images/contacts/item1.png" alt="contacts-img1" class="section-contacts-image">
                                                 <div class="section-contacts-info">
                                                     <span class="section-contacts-text">U can call us 24/7</span>
-                                                    <a href="#" class="section-contacts-link">+94 773 610 683 </a>
-                                                    <a href="#" class="section-contacts-link">+94 773 913 313 </a>
-                                                    <a href="#" class="section-contacts-link">+94 712 111 114 </a>
-                                                    <a href="#" class="section-contacts-link">+94 117 935 945</a>
+                                                    <a href="#" class="section-contacts-link">+94  773610683 </a>
+                                                    <a href="#" class="section-contacts-link">+94  773 913313 </a>
+                                                    <a href="#" class="section-contacts-link">+94  712 1 1 1 1 14 </a>
+                                                    <a href="#" class="section-contacts-link">+94  117935945 </a>
                                                 </div>
                                             </li>
                                             <li class="section-contacts-item">

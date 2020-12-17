@@ -92,230 +92,69 @@
                         <!-- Header end -->
 
                         <!-- Team -->
-                        <!-- <div class="section-our-team">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <h3>MEET OUR TEAM</h3>
-                                        <ul class="circles circles--red">
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                            <li>
-                                                <span></span>
-                                            </li>
-                                        </ul>
+                        <!-- Client grid -->
+                        <div class="section-our-team">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                            <h3>OUR CLIENTS</h3>
+                                            <ul class="circles circles--red">
+                                                <li>
+                                                    <span></span>
+                                                </li>
+                                                <li>
+                                                    <span></span>
+                                                </li>
+                                                <li>
+                                                    <span></span>
+                                                </li>
+                                            </ul>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <div class="owl-carousel--our-team owl-carousel owl-loaded owl-drag">
-                                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-720px, 0px, 0px); transition: all 0s ease 0s; width: 2640px;"><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--3">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">GREGORY RAMOS</h4>
-                                                    <p class="section-our-team-job">Digital Strategist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--4">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">MILA DEAN</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--5">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">JENNIFER MILLER</h4>
-                                                    <p class="section-our-team-job">Brand Specialist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--1">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">Emma jackson</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--2">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">NICHOLAS BELL</h4>
-                                                    <p class="section-our-team-job">CEO</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item active" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--3">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">GREGORY RAMOS</h4>
-                                                    <p class="section-our-team-job">Digital Strategist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--4">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">MILA DEAN</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--5">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">JENNIFER MILLER</h4>
-                                                    <p class="section-our-team-job">Brand Specialist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--1">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">Emma jackson</h4>
-                                                    <p class="section-our-team-job">Marketing Director</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--2">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">NICHOLAS BELL</h4>
-                                                    <p class="section-our-team-job">CEO</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div><div class="owl-item cloned" style="width: 210px; margin-right: 30px;"><div class="section-our-team-slide section-our-team-slide--3">
-                                                <ul class="section-our-team-socials">
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-facebook-f"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li class="section-our-team-item">
-                                                        <a href="#" class="section-our-team-link">
-                                                        <i class="fa fa-twitter"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                                <div class="section-our-team-caption">
-                                                    <h4 class="section-our-team-name">GREGORY RAMOS</h4>
-                                                    <p class="section-our-team-job">Digital Strategist</p>
-                                                </div>
-                                                <div class="section-our-team-slide-hover"></div>
-                                            </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span><i class="fa fa-chevron-left"></i></span></button><button type="button" role="presentation" class="owl-next"><span><i class="fa fa-chevron-right"></i></span></button></div><div class="owl-dots disabled"></div></div>
-                                    </div>
-                                </div>
+                        <div class="rowClient">
+                            <div class="column">
+                                <img src="assets/images/our-team/1.jpg">
+                                <img src="assets/images/our-team/2.png">
+                                <img src="assets/images/our-team/3.jpg">
+                                <img src="assets/images/our-team/4.jpg">
+                                   
                             </div>
-                        </div> -->
+                            <div class="column">
+                                <img src="assets/images/our-team/9.jpg">
+                                <img src="assets/images/our-team/6.png">
+                                <img src="assets/images/our-team/7.jpg">
+                                <img src="assets/images/our-team/8.jpg">
+                               
+                            </div>
+                            <div class="column">
+                                <img src="assets/images/our-team/5.jpg">
+                                <img src="assets/images/our-team/10.png">  
+                                <img src="assets/images/our-team/11.png">
+                                <img src="assets/images/our-team/12.png">
+                                
+                            </div>
+                            <div class="column">
+                                <img src="assets/images/our-team/13.jpg">
+                                <img src="assets/images/our-team/14.png">
+                                <img src="assets/images/our-team/15.png">
+                                <img src="assets/images/our-team/16.png">
+                            </div>
+                            <div class="column">
+                                <img src="assets/images/our-team/17.png">
+                                <img src="assets/images/our-team/24.jpg">
+                                <img src="assets/images/our-team/19.png">
+                                <img src="assets/images/our-team/20.png">
+                            </div>
+                            <div class="column">
+                                <img src="assets/images/our-team/21.png">
+                                <img src="assets/images/our-team/22.jpg">
+                                <img src="assets/images/our-team/23.png">
+                                <img src="assets/images/our-team/18.png">
+                                <!-- <img src="assets/images/our-team/25.png"> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                         <!-- proposition -->
                         <div class="section-proposition">
