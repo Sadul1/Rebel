@@ -16,7 +16,7 @@
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
                     <script src="https://kit.fontawesome.com/caef0b341f.js" crossorigin="anonymous"></script>
                     <!-- Title  -->
-                    <title> Rebel | Social Media</title>
+                    <title> Rebel | Social Media Marketing</title>
                     <!-- Favicon -->
                     <link rel="icon" href="assets/images/favicon.png">
                     <!-- Bootstrap -->
