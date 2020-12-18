@@ -146,15 +146,15 @@
                                             <form action="mailto:hello@rebel.lk" method="post" enctype="text/plain">
                                                 <div class="section-contacts-form-row">
                                                     <div class="section-contacts-form-group mb-space">
-                                                        <input type="text" class="section-contacts-form-field  form-control" id="form_name" name="form_name" placeholder="Name">
+                                                        <input type="text" class="section-contacts-form-field  form-control" id="form_name" name="Your Name " placeholder="Name">
                                                     </div>
                                                     <div class="section-contacts-form-group mb-space">
-                                                        <input type="text" class="section-contacts-form-field form-control" id="form_email" name="form_email" placeholder="Email">
+                                                        <input type="text" class="section-contacts-form-field form-control" id="form_email" name="Your Email " placeholder="Email">
                                                     </div>
                                                 </div>
                                                 <div class="section-contacts-form-row">
                                                     <div class="section-contacts-form-group mb-space">
-                                                        <textarea class="section-contacts-form-field section-contacts-form-textarea  form-control" id="form_message" name="form_message" placeholder="Message"></textarea>
+                                                        <textarea class="section-contacts-form-field section-contacts-form-textarea  form-control" id="form_message" name="Your Message " placeholder="Message"></textarea>
                                                     </div>
                                                 </div>
                                                 <div class="result-success"></div>
