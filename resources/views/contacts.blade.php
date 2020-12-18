@@ -142,7 +142,8 @@
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
                                         <div class="section-contacts-form">
-                                            <form method="POST" id="contactform" name="contactform">
+                                            <!-- <form method="POST" id="contactform" name="contactform"> -->
+                                            <form action="mailto:hello@rebel.lk" method="post" enctype="text/plain">
                                                 <div class="section-contacts-form-row">
                                                     <div class="section-contacts-form-group mb-space">
                                                         <input type="text" class="section-contacts-form-field  form-control" id="form_name" name="form_name" placeholder="Name">
