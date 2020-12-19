@@ -4078,7 +4078,7 @@ margin-right: auto;
 .rowClient {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding: 0 50px;
 }
 
 /* Create two equal columns that sits next to each other */
