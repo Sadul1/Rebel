@@ -116,35 +116,46 @@
                                 <img src="assets/images/our-team/1.jpg">
                                 <img src="assets/images/our-team/2.png">
                                 <img src="assets/images/our-team/3.png">
-                                <img src="assets/images/our-team/4.png">  
+                                <img src="assets/images/our-team/4.png"> 
+                                <img src="assets/images/our-team/6.png"> 
                                 <img src="assets/images/our-team/22.png">   
                                 <img src="assets/images/our-team/24.png">
+                                <img src="assets/images/our-team/10.png">
                             </div>
                             <div class="column">
                                 <img src="assets/images/our-team/5.png">
-                                <img src="assets/images/our-team/6.png">
+                                <img src="assets/images/our-team/61.png">
+                                <img src="assets/images/our-team/25.png">
                                 <img src="assets/images/our-team/23.png">
                                 <img src="assets/images/our-team/20.png">
                                 <img src="assets/images/our-team/7.png">
-                                <img src="assets/images/our-team/8.png">  
+                                <img src="assets/images/our-team/8.png"> 
+
+                                <img src="assets/images/our-team/17.png">                           
+                                <img src="assets/images/our-team/14.png">
+                                <img src="assets/images/our-team/15.png">
+                                
                                 
                             </div>
                             <div class="column">
-                                <img src="assets/images/our-team/13.jpg">
-                                <img src="assets/images/our-team/10.png">  
+                                <img src="assets/images/our-team/13.jpg">  
                                 <img src="assets/images/our-team/11.png">
                                 <img src="assets/images/our-team/12.png">
                                 <img src="assets/images/our-team/9.png">  
                                 <img src="assets/images/our-team/18.png">
+
+                                <img src="assets/images/our-team/16.png">
+                                <img src="assets/images/our-team/19.png">
+                                <img src="assets/images/our-team/21.png"> 
                             </div>
-                            <div class="column">
+                            <!-- <div class="column">
                                 <img src="assets/images/our-team/17.png">                           
                                 <img src="assets/images/our-team/14.png">
                                 <img src="assets/images/our-team/15.png">
                                 <img src="assets/images/our-team/16.png">
                                 <img src="assets/images/our-team/19.png">
                                 <img src="assets/images/our-team/21.png">
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
